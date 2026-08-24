@@ -150,7 +150,7 @@
             "last_commit": "2026-08-24T04:09:45Z",
             "owner": "MarSeventh",
             "repo": "CloudFlare-ImgBed",
-            "stars": 6278
+            "stars": 6279
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-07-16T07:10:34Z",
             "owner": "oiov",
             "repo": "vmail",
-            "stars": 1459
+            "stars": 1460
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2026-08-23T16:36:52Z",
             "owner": "dreamhunter2333",
             "repo": "cloudflare_temp_email",
-            "stars": 11435
+            "stars": 11466
           }
         },
         {
@@ -318,10 +318,10 @@
             "archived": false,
             "id": 971999086,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T03:57:27Z",
+            "last_commit": "2026-08-24T16:20:14Z",
             "owner": "maillab",
             "repo": "cloud-mail",
-            "stars": 13654
+            "stars": 13660
           }
         },
         {
@@ -771,7 +771,7 @@
             "last_commit": "2025-10-09T04:56:34Z",
             "owner": "hunshcn",
             "repo": "gh-proxy",
-            "stars": 8973
+            "stars": 8972
           }
         },
         {
@@ -1083,7 +1083,7 @@
             "last_commit": "2026-08-23T06:31:44Z",
             "owner": "XIU2",
             "repo": "CloudflareSpeedTest",
-            "stars": 28707
+            "stars": 28710
           }
         },
         {
@@ -1119,7 +1119,7 @@
             "last_commit": "2026-06-01T15:10:21Z",
             "owner": "lyc8503",
             "repo": "UptimeFlare",
-            "stars": 3732
+            "stars": 3733
           }
         },
         {
@@ -1221,7 +1221,7 @@
             "archived": false,
             "id": 1185924743,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:17:23Z",
+            "last_commit": "2026-08-24T15:11:27Z",
             "owner": "bentleypark",
             "repo": "aiwatch",
             "stars": 27
@@ -1356,7 +1356,7 @@
             "last_commit": "2026-04-06T19:48:25Z",
             "owner": "tbxark",
             "repo": "ChatGPT-Telegram-Workers",
-            "stars": 3813
+            "stars": 3814
           }
         },
         {
@@ -1611,7 +1611,7 @@
             "last_commit": "2026-08-10T12:05:37Z",
             "owner": "shuaiplus",
             "repo": "nodewarden",
-            "stars": 3422
+            "stars": 3423
           }
         },
         {
@@ -1626,7 +1626,7 @@
             "last_commit": "2026-08-09T12:41:44Z",
             "owner": "qaz741wsd856",
             "repo": "warden-worker",
-            "stars": 1256
+            "stars": 1258
           }
         },
         {
@@ -1964,7 +1964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:53:11.692Z",
+    "last_updated": "2026-08-24T17:57:01.843Z",
     "original_repository": "zhuima/awesome-cloudflare",
     "original_repository_id": 783124783,
     "original_repository_sha": "4dfad4f51ff327076813c047c2b3d997a6853e1d",
