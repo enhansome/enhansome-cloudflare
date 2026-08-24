@@ -1,7 +1,1970 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Telegraph-Image-Hosting",
+          "description": "使用 Telegraph 构建免费图像托管 不再维护",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 341228479,
+            "language": "HTML",
+            "last_commit": "2024-09-08T19:12:05Z",
+            "owner": "missuo",
+            "repo": "Telegraph-Image-Hosting",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cf-image-hosting",
+          "description": "在 Telegraph 上免费无限制地托管图像，部署在 Cloudflare 上。 https://images.mingming.dev 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 750909504,
+            "language": "JavaScript",
+            "last_commit": "2024-05-02T13:29:43Z",
+            "owner": "ifyour",
+            "repo": "cf-image-hosting",
+            "stars": 656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "img-mom",
+          "description": "基于 Cloudflare Workers 运行时构建, 轻量使用完全免费，支持多种图床（Telegram/Cloudfalre R2/Backblaze B2, 更多图床正在支持中），快速部署。使用 Wrangler 可快速实现自部署 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 753208084,
+            "language": "TypeScript",
+            "last_commit": "2025-04-12T14:20:11Z",
+            "owner": "beilunyang",
+            "repo": "img-mom",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "workers-image-hosting",
+          "description": "基于cloudflare workers数据存储于KV的图床 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 563266136,
+            "language": "Vue",
+            "last_commit": "2023-02-05T12:11:03Z",
+            "owner": "iiop123",
+            "repo": "workers-image-hosting",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telegraph-Image",
+          "description": "免费图片托管解决方案，Flickr/imgur 替代品。使用 Cloudflare Pages 和 Telegraph。 https://im.gurl.eu.org/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 560101664,
+            "language": "HTML",
+            "last_commit": "2026-07-27T03:57:46Z",
+            "owner": "cf-pages",
+            "repo": "Telegraph-Image",
+            "stars": 4652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cloudflare-worker-image",
+          "description": "使用 Cloudflare Worker 处理图片, 依赖 Photon，支持缩放、剪裁、水印、滤镜等功能。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 721994577,
+            "language": "Rust",
+            "last_commit": "2025-06-29T04:55:08Z",
+            "owner": "miantiao-me",
+            "repo": "cloudflare-worker-image",
+            "stars": 377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tgState",
+          "description": "使用Telegram作为存储的外链系统，不限制大小和格式。 https://tgstate.vercel.app 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 699221013,
+            "language": "Go",
+            "last_commit": "2025-04-13T11:37:39Z",
+            "owner": "csznet",
+            "repo": "tgState",
+            "stars": 1044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "telegraph-Image",
+          "description": "一个图床。 https://img.131213.xyz/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 661741181,
+            "language": "JavaScript",
+            "last_commit": "2025-06-10T12:57:31Z",
+            "owner": "x-dr",
+            "repo": "telegraph-Image",
+            "stars": 1575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "roim-picx",
+          "description": "基于CloudFlare Pages和R2实现的免费图床。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 596907203,
+            "language": "Vue",
+            "last_commit": "2026-03-16T01:25:16Z",
+            "owner": "roimdev",
+            "repo": "roim-picx",
+            "stars": 291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudFlare-ImgBed",
+          "description": "基于Cloudflare Worker技术栈的免费图床，具有美观、易用的现代化前端，支持Cloudflare, Docker等部署方式，支持Telegram, Discord, S3, R2, Huggingface, Webdav等多个存储渠道，不限制文件格式和大小。 https://cfbed.1314883.xyz/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 831066597,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T04:09:45Z",
+            "owner": "MarSeventh",
+            "repo": "CloudFlare-ImgBed",
+            "stars": 6278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imgUU",
+          "description": "一个基于Cloudflare D1和R2构建的免费图片上传应用Github登陆管理。 https://imguu.net/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 929257392,
+            "language": "Astro",
+            "last_commit": "2025-03-13T06:23:22Z",
+            "owner": "yestool",
+            "repo": "imgUU",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cloudflare-r2-telegram-bot",
+          "description": "基于cloudflare worker与R2存储桶的图床机器人。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 961964490,
+            "language": "JavaScript",
+            "last_commit": "2025-04-21T10:41:30Z",
+            "owner": "xinycai",
+            "repo": "cloudflare-r2-telegram-bot",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PixR2",
+          "description": "基于 Cloudflare Workers + R2 的多入口图床与图片管理平台 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1016000007,
+            "language": "JavaScript",
+            "last_commit": "2025-12-04T16:48:20Z",
+            "owner": "WangQueXL",
+            "repo": "PixR2",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "图床"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vmail",
+          "description": "📫 Open source temporary email tool. 开源临时邮箱工具，支持收发邮件。 https://vmail.dev/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 782503959,
+            "language": "TypeScript",
+            "last_commit": "2026-07-16T07:10:34Z",
+            "owner": "oiov",
+            "repo": "vmail",
+            "stars": 1459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "smail",
+          "description": "临时邮箱服务 https://smail.pw/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 744065373,
+            "language": "TypeScript",
+            "last_commit": "2026-04-18T14:54:28Z",
+            "owner": "akazwz",
+            "repo": "smail",
+            "stars": 919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cloudflare_temp_email",
+          "description": "使用 cloudflare 免费服务，搭建临时邮箱，D1 作为数据库，带有前端及后端，支持多国语言及自动回复功能，支持附件 IMAP SMTP https://mail.awsl.uk/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 678900558,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T16:36:52Z",
+            "owner": "dreamhunter2333",
+            "repo": "cloudflare_temp_email",
+            "stars": 11435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mail2telegram",
+          "description": "这是一个基于 Cloudflare Email Routing Worker 的 Telegram Bot，可以将电子邮件转换为 Telegram 消息。您可以将任何前缀的收件人的电子邮件转发到 Bot，然后将创建一个具有无限地址的临时邮箱 Bot。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 704429081,
+            "language": "TypeScript",
+            "last_commit": "2026-08-17T05:37:58Z",
+            "owner": "tbxark",
+            "repo": "mail2telegram",
+            "stars": 881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AuthInbox",
+          "description": "一个自建的开源多邮箱验证码的接码平台，基于 Cloudflare 的免费服务。它可以自动处理收到的邮件，提取验证码或链接，并将其存储在数据库中。管理员可以通过一个用户友好的网页界面轻松查看提取的信息。AuthInbox 还支持通过 Bark 进行实时通知，使其成为一个全面且省心的邮件认证管理解决方案。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 868950418,
+            "language": "TypeScript",
+            "last_commit": "2026-07-09T04:22:29Z",
+            "owner": "TooonyChen",
+            "repo": "AuthInbox",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "moemail",
+          "description": "MoeMail - 基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务 。 https://moemail.app 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 896908848,
+            "language": "TypeScript",
+            "last_commit": "2026-07-30T14:09:33Z",
+            "owner": "beilunyang",
+            "repo": "moemail",
+            "stars": 2798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zmail",
+          "description": "Z-Mail - 基于 CloudFlare 的 pages、worker 以及 D1 SQL 搭建的极简临时邮箱服务，支持接收附件。 https://mail.mdzz.uk/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 945648745,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T16:09:52Z",
+            "owner": "takumi913",
+            "repo": "zmail",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cloud-mail",
+          "description": "用Vue3开发的响应式简约邮箱服务，支持邮件发送附件收发，可以部署到Cloudflare云平台。 https://skymail.ink 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 971999086,
+            "language": "JavaScript",
+            "last_commit": "2026-08-23T03:57:27Z",
+            "owner": "maillab",
+            "repo": "cloud-mail",
+            "stars": 13654
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alle",
+          "description": "AI识别的邮件聚合客户端，支持验证码提取、链接分类、临时邮箱服务。基于Cloudflare Workers + Next.js构建，无需服务器，仅需一个域名即可部署。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1084031728,
+            "language": "TypeScript",
+            "last_commit": "2026-06-05T01:15:41Z",
+            "owner": "bestruirui",
+            "repo": "Alle",
+            "stars": 451
+          }
+        }
+      ],
+      "title": "邮箱"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cloudflare-workers-blog",
+          "description": "这是一个运行在cloudflare workers 上的博客程序,使用 cloudflare KV作为数据库,无其他依赖. 兼容静态博客的速度,以及动态博客的灵活性,方便搭建不折腾. https://blog.gezhong.vip/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 323549019,
+            "language": "JavaScript",
+            "last_commit": "2025-06-09T07:58:40Z",
+            "owner": "gdtool",
+            "repo": "cloudflare-workers-blog",
+            "stars": 1188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cloudflare-workers-blog",
+          "description": "Cloudflare workers + Github 实现的动态博客系统，使用边缘计算，无需服务器 好像是不维护了",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 190681445,
+            "language": "JavaScript",
+            "last_commit": "2020-12-13T10:21:35Z",
+            "owner": "kasuganosoras",
+            "repo": "cloudflare-worker-blog",
+            "stars": 468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "microfeed",
+          "description": "一个在 Cloudflare 上自托管的轻量级内容管理系统 (CMS)。通过 microfeed，您可以轻松地将各种内容（例如音频、视频、照片、文档、博客文章和外部 URL）以 Web、RSS 和 JSON 的形式发布到 feed。对于想要自行托管自己的 CMS 而无需运行自己的服务器的精通技术的个人来说，这是完美的解决方案。 https://www.microfeed.org/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 266677657,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T23:28:31Z",
+            "owner": "microfeed",
+            "repo": "microfeed",
+            "stars": 4048
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "emaction.frontend",
+          "description": "基于Cloudflare D1实现的 GitHub 风格的 Reactions 点赞功能， 本项目是前端。 https://emaction.cool/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 666701594,
+            "language": "JavaScript",
+            "last_commit": "2023-09-13T07:59:56Z",
+            "owner": "emaction",
+            "repo": "emaction.frontend",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "emaction.backend",
+          "description": "基于Cloudflare D1实现的 GitHub 风格的 Reactions 点赞功能， 本项目是后端。 https://emaction.cool/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 666701710,
+            "language": "JavaScript",
+            "last_commit": "2023-08-10T01:44:44Z",
+            "owner": "emaction",
+            "repo": "emaction.backend",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "serverless-cloud-notepad",
+          "description": "基于 Cloudflare Worker 实现的Serverless Cloud Notepad 云笔记。 https://note.src.moe/y6y 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 491929454,
+            "language": "JavaScript",
+            "last_commit": "2025-06-06T11:05:12Z",
+            "owner": "s0urcelab",
+            "repo": "serverless-cloud-notepad",
+            "stars": 491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rin",
+          "description": "Rin 是一个基于 Cloudflare Pages + Workers + D1 + R2 全家桶的博客，无需服务器无需备案，只需要一个解析到 Cloudflare 的域名即可部署。 https://docs.openrin.org/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 803866357,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T03:38:18Z",
+            "owner": "openRin",
+            "repo": "Rin",
+            "stars": 2994
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cf-comment",
+          "description": "一个基于 Cloudflare Workers 运行的简单评论系统，支持回复、点赞、举报以及管理员后台管理功能；同时提供中英双语切换，方便更广泛地使用。 https://comment.joyance.page/area/test-4 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 906611715,
+            "language": "JavaScript",
+            "last_commit": "2026-03-08T04:42:58Z",
+            "owner": "joyance-professional",
+            "repo": "cf-comment",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gins-Blog",
+          "description": "一个高性能、Agentic-First 的博客平台。完全基于 Cloudflare 生态 (Workers, Pages, D1, KV, R2, Vectorize)。内置 MCP 协议，支持通过 OpenClaw 零人工自动部署。 https://blog.ichimarugin728.com 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1142955824,
+            "language": "Astro",
+            "last_commit": "2026-05-17T09:45:58Z",
+            "owner": "IchimaruGin728",
+            "repo": "Gins-Blog",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "博客"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nextflare",
+          "description": "Next.js App running with Lemon Squeezy on Cloudflare. https://nextflare-template.pages.dev/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 818043741,
+            "language": "TypeScript",
+            "last_commit": "2024-08-15T13:13:35Z",
+            "owner": "miantiao-me",
+            "repo": "nextflare",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "create-microservices-app",
+          "description": "Scaffold a Cloudflare-native SaaS app — Workers, D1, SvelteKit/Hono, with verified auth, booking, payment & email modules. https://microservices.sh 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1269100468,
+            "language": "TypeScript",
+            "last_commit": "2026-06-22T20:46:16Z",
+            "owner": "microservices-sh",
+            "repo": "microservices-sh",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "脚手架"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "short",
+          "description": "一个使用 Cloudflare Pages 创建的 URL 缩短器。 https://d.igdu.xyz/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 744893954,
+            "language": "JavaScript",
+            "last_commit": "2024-05-19T03:02:52Z",
+            "owner": "igengdu",
+            "repo": "short",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "short",
+          "description": "一个使用 Cloudflare Pages 创建的 URL 缩短器。 https://d.131213.xyz/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 682148561,
+            "language": "HTML",
+            "last_commit": "2025-06-27T13:08:11Z",
+            "owner": "x-dr",
+            "repo": "short",
+            "stars": 449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "linklet",
+          "description": "一个使用 Cloudflare Pages 创建的 URL 缩短器。这个是基于API模式实现，使用场景更多一些 https://wss.so/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 770783704,
+            "language": "JavaScript",
+            "last_commit": "2024-10-21T09:38:25Z",
+            "owner": "harrisonwang",
+            "repo": "linklet",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Url-Shorten-Worker",
+          "description": "使用秘密路径访问操作页面。支持自定义短链。API 不公开服务。页面缓存设置过的短链。长链接文本框预搜索localStorage。增加删除某条短链的按钮。增加读取KV的按钮。变身网络记事本 Pastebin。变身图床 Image Hosting。A URL Shortener created using Cloudflare worker and KV https://urlsrv.crazypeace.workers.dev/bodongshouqulveweifengci 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 514299377,
+            "language": "HTML",
+            "last_commit": "2026-06-19T01:02:23Z",
+            "owner": "crazypeace",
+            "repo": "Url-Shorten-Worker",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duanwangzhi",
+          "description": "无需服务即可缩短您的链接，因为它基于 Cloudflare 工作人员功能，具有极简风格。 好像是不维护了",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 259568006,
+            "language": "HTML",
+            "last_commit": "2020-05-14T17:13:41Z",
+            "owner": "Closty",
+            "repo": "duanwangzhi",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Url-Shorten-Worker",
+          "description": "这个是fork的crazypeace的Url-Shorten-Worker， 使用秘密路径访问操作页面。支持自定义短链。API 不公开服务。页面缓存设置过的短链。长链接文本框预搜索localStorage。增加删除某条短链的按钮。增加读取KV的按钮。变身网络记事本 Pastebin。变身图床 Image Hosting。A URL Shortener created using Cloudflare worker and KV。 https://1way.eu.org/bodongshouqulveweifengci 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 782950475,
+            "language": "HTML",
+            "last_commit": "2024-04-06T14:42:51Z",
+            "owner": "horsemail",
+            "repo": "Url-Shorten-Worker",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudFlare-Pages-UrlShorten",
+          "description": "一个多功能的URL短链工具。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 524602103,
+            "language": "TypeScript",
+            "last_commit": "2023-05-25T15:27:47Z",
+            "owner": "Jiaocz",
+            "repo": "CloudFlare-Pages-UrlShorten",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Url-Shorten-Worker",
+          "description": "在原分支和 crazypeace 分支部分功能基础上优化了页面，增加了管理员用户、访客身份，增加正则表达式匹配功能，支持了环境变量配置，以及其他细节性改进。 https://url-shortener-demo.jhw.li/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 531947390,
+            "language": "JavaScript",
+            "last_commit": "2026-05-11T05:31:56Z",
+            "owner": "Monopink",
+            "repo": "url-shortener",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudflareWorker-KV-UrlShort",
+          "description": "使用Cloudflare Worker创建的URL缩短器, 支持自定义首页, 支持Menu Short, 支持短网址、文本、网页分享 URL。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 645692568,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T14:09:07Z",
+            "owner": "Ai-Yolo",
+            "repo": "CloudflareWorker-KV-UrlShort",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sink",
+          "description": "ccbikai/Sink 是一个在 Cloudflare 上完全运行的简单、快速、安全的链接缩短器，具备分析功能和控制台面板. https://sink.cool/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 796284842,
+            "language": "Vue",
+            "last_commit": "2026-08-20T11:45:00Z",
+            "owner": "miantiao-me",
+            "repo": "Sink",
+            "stars": 7047
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CFWorkerUrls",
+          "description": "一个基于CF Worker的短链接跳转服务，支持Lucky STUN自动化 。 https://1web.us.kg/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 918864142,
+            "language": "TypeScript",
+            "last_commit": "2026-05-25T08:22:59Z",
+            "owner": "PIKACHUIM",
+            "repo": "CFWorkerUrls",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "短链"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "analytics_with_cloudflare",
+          "description": "免费开源网页访客计数器, Webviso 是一个基于Cloudflare worker服务+Cloudflare D1数据库实现的完全免费的在线web访客统计服务。 功能与目前常用的 不蒜子 - 极简网页计数器 相同。Webviso完全开源，你可以实现自定义需求。 基于Cloudflare的微服务架构可快速自行部署上线。 https://webviso.yestool.org/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 726792704,
+            "language": "TypeScript",
+            "last_commit": "2024-10-23T14:27:52Z",
+            "owner": "yestool",
+            "repo": "analytics_with_cloudflare",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "counterscale",
+          "description": "Counterscale 是一个简单的 Web 分析跟踪器和仪表板，效果和 umami 类似，您可以在 Cloudflare 上自行托管。它的设计易于部署和维护，即使在高流量的情况下，您的操作成本也应该接近于零（Cloudflare 的免费套餐假设可以支持每天高达 10 万次点击）。 https://counterscale.dev/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 734549972,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T01:56:29Z",
+            "owner": "benvinegar",
+            "repo": "counterscale",
+            "stars": 2120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HanAnalytics",
+          "description": "一个部署在Cloudflare Pages上的简单的网络分析跟踪器和仪表板，是umami的精简版，它支持设备查看、来源查看、国家地区及设备OS等数据查看分析，支持密码访问，域名白名单等功能。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 861181674,
+            "language": "Less",
+            "last_commit": "2025-03-19T09:34:34Z",
+            "owner": "uxiaohan",
+            "repo": "HanAnalytics",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beam",
+          "description": "轻量级、无 Cookie、GDPR 合规的网页分析服务，基于 Cloudflare Workers + D1 构建。无需 Cookie 即可收集页面浏览数据，隐私友好，可自部署。 https://beam.keylightdigital.com/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1203916190,
+            "language": "TypeScript",
+            "last_commit": "2026-06-16T20:11:34Z",
+            "owner": "scobb",
+            "repo": "beam",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "网站分析"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gh-proxy",
+          "description": "github release、archive以及项目的加速项目，支持clone，有Cloudflare Workers无服务器版本以及Python版本。 https://gh.api.99988866.xyz/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 249088403,
+            "language": "Python",
+            "last_commit": "2025-10-09T04:56:34Z",
+            "owner": "hunshcn",
+            "repo": "gh-proxy",
+            "stars": 8973
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "githubbox",
+          "description": "在 CodeSandbox 中快速打开任何 GitHub 存储库。 好像不维护了",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 257394721,
+            "language": "JavaScript",
+            "last_commit": "2023-08-31T16:46:01Z",
+            "owner": "dferber90",
+            "repo": "githubbox",
+            "stars": 619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gh-proxy",
+          "description": "github release、archive以及项目文件的加速项目. 支持 api.github.com, git.io. https://ghproxy.lvedong.eu.org/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 604963951,
+            "language": "JavaScript",
+            "last_commit": "2025-09-14T05:32:26Z",
+            "owner": "crazypeace",
+            "repo": "gh-proxy",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cf-proxy-ex",
+          "description": "Cloudflare超级代理，Duckduckgo代理（可用AI聊天），OpenAI/ChatGPT代理，Github加速，在线代理。Cloudflare super proxy, setting up a free proxy by using Cloudflare worker. https://y.demo.wvusd.homes/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 815606399,
+            "language": "JavaScript",
+            "last_commit": "2026-06-11T02:24:22Z",
+            "owner": "1234567Yang",
+            "repo": "cf-proxy-ex",
+            "stars": 1844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cloudflare-docker-proxy",
+          "description": "一个名为 cloudflare-docker-proxy 的项目，这是一个在 Cloudflare Worker 上运行的 Docker Hub 注册代理. 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 472464387,
+            "language": "JavaScript",
+            "last_commit": "2025-11-16T04:32:47Z",
+            "owner": "ciiiii",
+            "repo": "cloudflare-docker-proxy",
+            "stars": 1975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CF-Workers-docker.io",
+          "description": "这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题. https://docker.fxxk.dedyn.io/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 813254316,
+            "language": "JavaScript",
+            "last_commit": "2025-06-26T09:30:17Z",
+            "owner": "cmliu",
+            "repo": "CF-Workers-docker.io",
+            "stars": 9230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Page-api-forwarder",
+          "description": "它可以帮助您绕过某些API上的IP限制，并且由于它通过Cloudflare，因此速度很快。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 917101793,
+            "language": "JavaScript",
+            "last_commit": "2025-02-07T08:24:49Z",
+            "owner": "xinjianzhanghao",
+            "repo": "page-api-forwarder",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI-worker",
+          "description": "通过Cloudflare免费、私有化访问和管理Gemini~摆脱地域限制无烦恼，完全由自己掌控。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 973153650,
+            "language": "JavaScript",
+            "last_commit": "2026-08-01T08:48:04Z",
+            "owner": "qyjoy",
+            "repo": "AI-worker",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemini-balance-do",
+          "description": "基于 Cloudflare Worker 和 Durable Objects 实现的 Gemini API 中转（多key负载均衡），稳定美国 IP 访问 Gemini https://github.com/zaunist/gemini-balance-do 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1033730709,
+            "language": "TypeScript",
+            "last_commit": "2025-10-22T17:35:29Z",
+            "owner": "takumi913",
+            "repo": "gemini-balance-do",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLMKit",
+          "description": "Open-source AI API gateway built on CF Workers + Durable Objects. Cost tracking, budget enforcement, rate limiting for 11 LLM providers (OpenAI, Anthropic, Gemini, etc). TypeScript SDK, CLI, MCP server. MIT license. https://github.com/smigolsmigol/llmkit 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1161145093,
+            "language": "TypeScript",
+            "last_commit": "2026-08-16T03:57:45Z",
+            "owner": "smigolsmigol",
+            "repo": "llmkit",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "加速"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pastebin-worker",
+          "description": "介绍一个部署在 Cloudflare Workers 上的开源 Pastebin，通过URL分享\"文本\"或\"文件\"。如CF免费套餐：每天允许 10W 次读取、1000 次写入和 删除操作，大小限制在 25 MB 以下，轻量用足够了。自己部署或直接用。它还有“删除时间设置”和“密码”功能，可以设置一段时间后删除您的paste。用于twitter分享文件和文本，极好 https://shz.al/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 352382320,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T04:28:35Z",
+            "owner": "SharzyL",
+            "repo": "pastebin-worker",
+            "stars": 1047
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FileWorker",
+          "description": "运行在Cloudflare Worker上的在线剪贴板/文件共享 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 775257907,
+            "language": "TypeScript",
+            "last_commit": "2026-02-27T12:32:38Z",
+            "owner": "woaiqjj",
+            "repo": "FileWorker",
+            "stars": 393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dingding",
+          "description": "一款基于cloudflare workers的文件传输工具，文件存储在cloudflare KV中 好像不维护了",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 575288134,
+            "language": "Vue",
+            "last_commit": "2023-02-09T04:59:51Z",
+            "owner": "iiop123",
+            "repo": "dingding",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cf-files-sharing",
+          "description": "在该项目中，利用 Cloudflare Workers 的全球加速优势，实现了一个支持密码保护的文件分享工具，并集成了 Cloudflare 的 D1 数据库和 R2 存储，以满足不同大小文件的存储需求 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 884847308,
+            "language": "JavaScript",
+            "last_commit": "2025-01-01T06:11:47Z",
+            "owner": "joyance-professional",
+            "repo": "cf-files-sharing",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudPaste",
+          "description": "基于Cloudflare的在线文本/大文件分享平台，支持多种语法 Markdown 渲染、阅后即焚、S3/WebDav/TG/OneDrive等多存储聚合、密码保护等功能，可作为WebDav挂载，支持Docker部署。 https://doc.cloudpaste.qzz.io/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 959136800,
+            "language": "JavaScript",
+            "last_commit": "2026-01-23T08:12:18Z",
+            "owner": "ling-drag0n",
+            "repo": "CloudPaste",
+            "stars": 2616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cf-drop",
+          "description": "一个「文件传输助手」，运行在 Cloudflare Worker + R2 + D1。具备PWA移动端优化、支持多线程文件下载、访问密码、打包下载tarball 等功能。界面简单易用，可放到浏览器侧栏，或者添加到手机桌面上快速使用。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 911034322,
+            "language": "TypeScript",
+            "last_commit": "2025-02-08T12:34:26Z",
+            "owner": "lyonbot",
+            "repo": "cf-drop",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "serverless-webdav",
+          "description": "基于 Cloudflare Workers 和 Cloudflare D1 数据库 构建的轻量级、可扩展的 WebDAV 服务器实现。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 967146837,
+            "language": "JavaScript",
+            "last_commit": "2026-07-03T15:42:18Z",
+            "owner": "jiacai2050",
+            "repo": "my-works",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R2Drop",
+          "description": "Native macOS menu bar app for uploading files to Cloudflare R2. Built with Swift + Rust, supports drag-and-drop, automatic URL copying, and multiple bucket management. https://r2drop.com 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1164936316,
+            "language": "HTML",
+            "last_commit": "2026-06-24T08:18:26Z",
+            "owner": "superhumancorp",
+            "repo": "r2drop",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "K-Vault",
+          "description": "基于 Cloudflare 的 Serverless 聚合云盘。以 Telegram 为核心，兼容 R2、S3、Discord、HuggingFace 等多存储后端，支持 Webhook 直传、2GB 扩展、内容审核和自定义域名。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1148777144,
+            "language": "HTML",
+            "last_commit": "2026-07-06T03:31:11Z",
+            "owner": "katelya77",
+            "repo": "K-Vault",
+            "stars": 759
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZeroLink",
+          "description": "零知识安全传递工具，无账号、端到端加密、服务器无法解密；支持 Password / Passkey 双模式，适合安全传递密码、API Token、恢复码、私密消息和敏感文件。基于 Cloudflare Workers + Durable Objects + R2 构建。 https://zerolink.dev 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1164726609,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T07:34:43Z",
+            "owner": "yclgkd",
+            "repo": "zerolink",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "文件分享"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CloudflareSpeedTest",
+          "description": "国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 291485614,
+            "language": "Go",
+            "last_commit": "2026-08-23T06:31:44Z",
+            "owner": "XIU2",
+            "repo": "CloudflareSpeedTest",
+            "stars": 28707
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ip-check",
+          "description": "Python 实现的Cloudflare CDN 测速工具，支持多种方式传入ip（文本、ipv4/ipv6、端口、优选域名等）、自定义端口、ip 归属地筛选、ip 组织名筛选等。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 888876597,
+            "language": "Python",
+            "last_commit": "2026-07-15T01:46:42Z",
+            "owner": "lovegitgit",
+            "repo": "ip-check",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "测速"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UptimeFlare",
+          "description": "基于 Cloudflare Worker 的无服务器站点监控工具， 支持 HTTP/HTTPS/TCP 多种协议的端口监控， 可以从全球数百个城市发起地理位置特定的检查， 自定义的请求参数和响应校验规则,灵活适配各类监控场景。 https://uptimeflare.pages.dev/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 704810343,
+            "language": "TypeScript",
+            "last_commit": "2026-06-01T15:10:21Z",
+            "owner": "lyc8503",
+            "repo": "UptimeFlare",
+            "stars": 3732
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cf-workers-status-page",
+          "description": "监控您的网站，展示状态（包括每日历史记录），并在网站状态发生变化时收到 Slack 通知。使用 Cloudflare Workers、CRON 触发器和 KV 存储。 https://status-page.eidam.dev/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 311061056,
+            "language": "JavaScript",
+            "last_commit": "2024-08-21T08:32:55Z",
+            "owner": "eidam",
+            "repo": "cf-workers-status-page",
+            "stars": 2809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xugou",
+          "description": "基于 CloudFlare 的站点监控以及服务器监控工具。 https://xugou.mdzz.uk/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 951972403,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T01:48:59Z",
+            "owner": "takumi913",
+            "repo": "xugou",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cf-vps-monitor",
+          "description": "一个部署在 Cloudflare Workers 上的简单 VPS 监控 + 网站监测 面板，使用 Cloudflare D1 数据库存储数据。 https://vps-monitor.abo-vendor289.workers.dev/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 972521712,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T12:45:33Z",
+            "owner": "kadidalax",
+            "repo": "cf-vps-monitor",
+            "stars": 902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSL Certificate Monitor",
+          "description": "SSL 证书到期监控工具，检查 SSL 证书有效期并通过 RESTful API 提供服务。 https://ssl-certificate-monitor.autocompany.workers.dev/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1160656833,
+            "language": "TypeScript",
+            "last_commit": "2026-02-18T16:53:51Z",
+            "owner": "brancogao",
+            "repo": "ssl-certificate-monitor",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deploy-mcp",
+          "description": "为AI助手提供的通用部署跟踪器，支持实时状态徽章和部署监控，包括对 Cloudflare Pages 的支持。 https://deploy-mcp.io 有效中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1030972354,
+            "language": "TypeScript",
+            "last_commit": "2026-05-09T03:41:02Z",
+            "owner": "alexpota",
+            "repo": "deploy-mcp",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oddin-status",
+          "description": "精美的状态页与在线率监控系统。生产级环境就绪，开箱即用。 https://status.oddinpay.com/ 运行正常",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1055036673,
+            "language": "Svelte",
+            "last_commit": "2026-08-23T02:48:07Z",
+            "owner": "oddinpay",
+            "repo": "ohstatus",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AIWatch",
+          "description": "30 个 AI 服务（Claude、OpenAI、Gemini、Mistral、Groq、ElevenLabs 等）的实时状态监控仪表板。基于 Cloudflare Workers + KV + Workers AI（Gemma 4 26B 用于事件分析）构建，提供 Discord/Slack 告警、AI 驱动的事件分析和综合可靠性评分。 https://ai-watch.dev/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1185924743,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:17:23Z",
+            "owner": "bentleypark",
+            "repo": "aiwatch",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "监控"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Webhook Debugger",
+          "description": "自托管 Webhook 调试工具，支持签名验证（Stripe/GitHub/Slack/Shopify）、90天历史、全文搜索、一键重放。基于 Cloudflare Workers + D1 构建。 https://webhook-debugger.autocompany.workers.dev 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1159870805,
+            "language": "JavaScript",
+            "last_commit": "2026-02-17T19:35:37Z",
+            "owner": "brancogao",
+            "repo": "webhook-debugger",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cloudflare-WeChat-Notifier",
+          "description": "基于 Cloudflare Workers + Hono + D1 + Queues 的微信通知桥接服务。支持扫码登录、Webhook 入站、异步投递、失败重试和日志追踪，适用于 CI/CD、监控告警等通知场景。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1192333839,
+            "language": "TypeScript",
+            "last_commit": "2026-07-20T07:32:15Z",
+            "owner": "krapnikkk",
+            "repo": "Cloudflare-WeChat-Notifier",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GetWeb",
+          "description": "基于 Cloudflare Workers + GitHub Actions + Electron 的网页打包 EXE 工具。在线填写网址即可生成 Windows 桌面应用，支持自定义图标、构建历史和多 Token 负载均衡。 https://jishuguai.cc.cd/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1160869075,
+            "language": "JavaScript",
+            "last_commit": "2026-02-18T13:36:02Z",
+            "owner": "ZhangShengFan",
+            "repo": "GetWeb",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dualmark",
+          "description": "开源 AEO（Answer Engine Optimization）基础设施。 适配器包装任意上游 Worker，在边缘通过 HTTP 内容协商为 AI 爬虫（GPTBot、ClaudeBot、PerplexityBot 等 19 个已知 UA）返回干净的 Markdown 副本，人类访客获得 HTML，同一 URL 双格式。Apache 2.0，npm provenance 签名。 https://dualmark.dev 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1229555898,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T05:48:40Z",
+            "owner": "dodopayments",
+            "repo": "dualmark",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shopify-attribution-gap-backend",
+          "description": "基于 Cloudflare Workers + D1 的边缘数据收集后端，用于构建开放、透明的 Shopify iOS 归因差距基准。服务端计算归因差距、人工审核机制、中位数聚合，无需服务器。 https://stackarchitect.xyz/shopify-ios-attribution-gap-benchmark/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1282499468,
+            "language": null,
+            "last_commit": "2026-06-28T18:42:11Z",
+            "owner": "lsb11",
+            "repo": "shopify-attribution-gap-backend",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "开发者工具"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WARP-Clash-API",
+          "description": "该项目可以让你通过订阅的方式使用WARP+，支持Clash、Shadowrocket等客户端。项目内置了 刷取WARP+流量的功能，可以让你的WARP+流量不再受限制（每18秒可获得1GB流量），同时， 配备了IP选优功能。支持Docker compose 一键部署，无需额外操作，即可享受你自己的WARP+私 有高速节点！ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 682254415,
+            "language": "Python",
+            "last_commit": "2024-09-04T00:11:27Z",
+            "owner": "vvbbnn00",
+            "repo": "WARP-Clash-API",
+            "stars": 8827
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ip-api",
+          "description": "利用 Cloudflare Workers / Vercel Edge / Netlify Edge 快速搭一个获取 IP 地址和地理位置信息的接口。 https://html.zone/ip 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 732649680,
+            "language": "JavaScript",
+            "last_commit": "2025-12-07T07:50:43Z",
+            "owner": "miantiao-me",
+            "repo": "ip-api",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatGPT-Telegram-Workers",
+          "description": "轻松在 Cloudflare Workers 上部署您自己的 Telegram ChatGPT 机器人，有详细的视频和图文教程，搭建过程也不复杂，小白也能上手。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 609002853,
+            "language": "TypeScript",
+            "last_commit": "2026-04-06T19:48:25Z",
+            "owner": "tbxark",
+            "repo": "ChatGPT-Telegram-Workers",
+            "stars": 3813
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RSSWorker",
+          "description": "RSSWorker 是一个轻量级的 RSS 订阅工具，可以部署在 Cloudflare Worker 上。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 702034002,
+            "language": "JavaScript",
+            "last_commit": "2026-08-18T07:29:14Z",
+            "owner": "yllhwa",
+            "repo": "RSSWorker",
+            "stars": 795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deeplx-for-cloudflare",
+          "description": "Deploy DeepLX on Cloudflare。 https://deeplx.mingming.dev/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 718206820,
+            "language": "TypeScript",
+            "last_commit": "2024-03-14T15:01:52Z",
+            "owner": "ifyour",
+            "repo": "deeplx-for-cloudflare",
+            "stars": 594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sub_converter_convert",
+          "description": "转换ssr/v2ray订阅链接转换的工具。 好像不维护了",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 292496269,
+            "language": "JavaScript",
+            "last_commit": "2020-09-03T08:07:27Z",
+            "owner": "zzNeutrino",
+            "repo": "sub_converter_convert",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "telegram-counter",
+          "description": "用纯粹的 Cloudflare Worker 和 D1 数据库写了个 Telegram 的后端，方便可以随时随地的做一些打卡的记录……。 好像不维护了",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 693883545,
+            "language": "JavaScript",
+            "last_commit": "2023-09-28T13:39:23Z",
+            "owner": "iamshaynez",
+            "repo": "telegram-counter",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Serverless Cloud Notepad",
+          "description": "运行在 Cloudflare 上的云记事本，搭建简单，当做临时文本中转挺方便，并且支持 Markdown 语法，支持加密。 好像不维护了",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 491929454,
+            "language": "JavaScript",
+            "last_commit": "2025-06-06T11:05:12Z",
+            "owner": "s0urcelab",
+            "repo": "serverless-cloud-notepad",
+            "stars": 491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cohere2openai-cf-worker",
+          "description": "这是一个简单的 Cloudflare Worker，可将 Cohere API 转换为 OpenAI API，可轻松部署到 Cloudflare Workers。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 789639811,
+            "language": "TypeScript",
+            "last_commit": "2025-03-05T01:11:24Z",
+            "owner": "ckt1031",
+            "repo": "cohere-to-openai",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cohere2openai",
+          "description": "Cloudflare Worker 将 Cohere API 转换为 OpenAI API。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 788336511,
+            "language": "JavaScript",
+            "last_commit": "2024-05-07T00:52:28Z",
+            "owner": "beanqi",
+            "repo": "cohere2openai",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "locnode",
+          "description": "selfhost light federated community app runs on cloudflare,第一款能在cf上运行的自建轻量联合社区🚀🎉。 https://locnode.com/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 772912205,
+            "language": "CSS",
+            "last_commit": "2026-06-28T08:25:40Z",
+            "owner": "minlearn",
+            "repo": "discuss-cf",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Siri Ultra",
+          "description": "The assistant is run on Cloudflare Workers and can work with any LLM model。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 797833458,
+            "language": "TypeScript",
+            "last_commit": "2026-06-05T11:58:16Z",
+            "owner": "fatwang2",
+            "repo": "siri-ultra",
+            "stars": 1206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitPush",
+          "description": "基于 Cloudflare Workflow、Workers AI 和 Email Routing 构建的 GitHub 项目更新订阅工具。可以订阅关注的 GitHub 项目，通过 AI 总结更新内容并通过邮件发送通知。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 940690317,
+            "language": "TypeScript",
+            "last_commit": "2025-03-07T13:47:13Z",
+            "owner": "fatwang2",
+            "repo": "gitpush",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cobalt page function",
+          "description": "利用页面函数调用 cobalt 接口，获取视频下载地址。 https://liujiacai.net/api/cobalt 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 153269558,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-08-02T14:05:35Z",
+            "owner": "jiacai2050",
+            "repo": "blog-snippets",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wr.do",
+          "description": "基于 Cloudflare 的多租户 DNS 分发系统。开源且免费提供 DNS 解析、短链接生成。 https://wr.do 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 834143002,
+            "language": "TypeScript",
+            "last_commit": "2026-06-04T05:10:53Z",
+            "owner": "oiov",
+            "repo": "wr.do",
+            "stars": 2279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cloudflare-proxy-sites",
+          "description": "Cloudflare Workers web proxy 二级域名访问方式。 Demo 地址 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 838036043,
+            "language": "JavaScript",
+            "last_commit": "2024-08-12T00:52:24Z",
+            "owner": "seadfeng",
+            "repo": "cloudflare-proxy-sites",
+            "stars": 410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sublink-worker",
+          "description": "一个部署在Cloudflare worker上的轻量级代理节点订阅转换工具，它可以将各种代理协议的分享 URL 转换为不同客户端可用的订阅链接。同时还提供灵活的自定义规则与API支持。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 834421850,
+            "language": "JavaScript",
+            "last_commit": "2026-07-19T13:56:48Z",
+            "owner": "7Sageer",
+            "repo": "sublink-worker",
+            "stars": 5309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "melody-auth",
+          "description": "一个基于Cloudflare workers, D1, KV的OAuth及身份认证系统。 https://auth.valuemelody.com/ 有效中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 826480313,
+            "language": "TypeScript",
+            "last_commit": "2026-08-17T01:39:40Z",
+            "owner": "ValueMelody",
+            "repo": "melody-auth",
+            "stars": 635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cloudflare-KV-Manager",
+          "description": "您的 Cloudflare KV 缺少工具。用于管理 Cloudflare KV 存储的更完整、更简单的解决方案。包括一个 Web 界面和一个小型 Python 库。 https://kv-demo.somecanadian.com 有效中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 928072234,
+            "language": "Vue",
+            "last_commit": "2025-06-23T00:50:51Z",
+            "owner": "som3canadian",
+            "repo": "Cloudflare-KV-Manager",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NodeWarden",
+          "description": "运行在 Cloudflare Workers 上的轻量 Bitwarden 兼容服务端，支持 D1、R2 和 Web Vault。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1147229870,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T12:05:37Z",
+            "owner": "shuaiplus",
+            "repo": "nodewarden",
+            "stars": 3422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Warden Worker",
+          "description": "运行在 Cloudflare Workers 上的轻量 Bitwarden 兼容服务端实现。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1105139124,
+            "language": "Rust",
+            "last_commit": "2026-08-09T12:41:44Z",
+            "owner": "qaz741wsd856",
+            "repo": "warden-worker",
+            "stars": 1256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CFWorkerACME",
+          "description": "SSL证书助手是一个免费、开源的全自动化SSL证书申请和下发平台，依托于Cloudflare运行 https://newssl.524228.xyz/ 有效中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 949263242,
+            "language": "TypeScript",
+            "last_commit": "2026-05-27T11:49:26Z",
+            "owner": "PIKACHUIM",
+            "repo": "CFWorkerACME",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibreTV",
+          "description": "LibreTV - 免费在线视频搜索与观看平台 有效中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 966654708,
+            "language": "JavaScript",
+            "last_commit": "2025-08-13T04:30:05Z",
+            "owner": "bestZwei",
+            "repo": "LibreTV",
+            "stars": 375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MoePush",
+          "description": "一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨ https://moepush.app/ 有效中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 929311929,
+            "language": "TypeScript",
+            "last_commit": "2025-05-10T11:42:44Z",
+            "owner": "beilunyang",
+            "repo": "moepush",
+            "stars": 1360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Text2img-Cloudflare-Workers",
+          "description": "一个基于 Cloudflare AI & Workers 的在线文生图服务✨ https://text2img.huarzone.com/ 有效中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 981253647,
+            "language": "HTML",
+            "last_commit": "2025-05-11T06:22:37Z",
+            "owner": "huarzone",
+            "repo": "Text2img-Cloudflare-Workers",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Edgebin",
+          "description": "类似与 httpbin 的 HTTP 测试服务 https://edgebin.liujiacai.net 有效中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1069553023,
+            "language": "JavaScript",
+            "last_commit": "2026-03-23T09:45:49Z",
+            "owner": "jiacai2050",
+            "repo": "edgebin",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CF-TOOLS",
+          "description": "整合常用开发工具，AI 助手等。 https://cf-tools.tianyao.qzz.io/ 有效中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1081118173,
+            "language": "TypeScript",
+            "last_commit": "2026-01-21T07:09:37Z",
+            "owner": "MainPoser",
+            "repo": "cf-tools",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "subpool-worker",
+          "description": "轻量级订阅池服务，用于管理和分发代理订阅链接 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1088598073,
+            "language": "JavaScript",
+            "last_commit": "2026-08-18T14:23:38Z",
+            "owner": "illusionlie",
+            "repo": "subpool-worker",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS-AccessBridge",
+          "description": "AWS 多账号管理和登录服务 https://aws-access-bridge.220cbb9e01920558e6d2862ebf66b298.workers.dev/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1012842632,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:00:37Z",
+            "owner": "Rexezuge-CloudflareWorkers",
+            "repo": "AWS-AccessBridge",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cloudflare-Clist",
+          "description": "基于cloudflare worker的类alist聚合存储管理服务 https://down.ohyraw.qzz.io 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1122646918,
+            "language": "TypeScript",
+            "last_commit": "2026-06-16T09:04:49Z",
+            "owner": "ooyyh",
+            "repo": "Cloudflare-Clist",
+            "stars": 411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sync-your-cookie",
+          "description": "基于cloudflare KV、Github Gist Cookie同步浏览器拓展。支持同步 Cookie 到 Cloudflare 或者 github Gist (支持LocalStorage)，支持为不同站点配置Auto Merge和Auto Push规则，Cookie数据经过 protobuf 编码传输，提供了管理面板。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 840300213,
+            "language": "TypeScript",
+            "last_commit": "2026-03-10T04:13:12Z",
+            "owner": "jackluson",
+            "repo": "sync-your-cookie",
+            "stars": 697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "myip",
+          "description": "基于Cloudflare Workers的IP信息探测网站。支持一键部署，基于hoajs实现。 https://myip.hoa-js.com/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1066824283,
+            "language": "HTML",
+            "last_commit": "2026-06-14T02:55:42Z",
+            "owner": "hoa-js",
+            "repo": "examples",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2fa",
+          "description": "基于Cloudflare Workers的2FA生成网站。支持一键部署，基于hoajs实现。 https://2fa.hoa-js.com/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1066824283,
+            "language": "HTML",
+            "last_commit": "2026-06-14T02:55:42Z",
+            "owner": "hoa-js",
+            "repo": "examples",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tempnote",
+          "description": "基于Cloudflare Workers & KV 的随记网站。随机生成笔记地址、响应式设计、支持自定义笔记地址、支持一键部署，基于hoajs实现。 https://tempnote.hoa-js.com/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1066824283,
+            "language": "HTML",
+            "last_commit": "2026-06-14T02:55:42Z",
+            "owner": "hoa-js",
+            "repo": "examples",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudNav-",
+          "description": "可以托管在cloudflare上的导航，带chrome插件，可一键收藏网页到导航。轻量级导航，主打实用。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1104414828,
+            "language": "TypeScript",
+            "last_commit": "2025-12-17T05:20:03Z",
+            "owner": "sese972010",
+            "repo": "CloudNav-",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cf-tools",
+          "description": "Cloudflare驱动的在线工具平台，集成常用开发工具和Worker AI。整合常用开发工具、AI 助手等。 https://cf-tools.tianyao.qzz.io/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1081118173,
+            "language": "TypeScript",
+            "last_commit": "2026-01-21T07:09:37Z",
+            "owner": "MainPoser",
+            "repo": "cf-tools",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "memos-worker",
+          "description": "由 Cloudflare 驱动的笔记与知识库。Markdown 全功能支持、文件与附件、公开分享、Telegram 集成、强大组织能力、知识库、高度可定制、极致性能与低成本、数据自主。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1064139170,
+            "language": "HTML",
+            "last_commit": "2026-03-08T06:48:39Z",
+            "owner": "souvenp",
+            "repo": "memos-worker",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whisper_cloudflare",
+          "description": "基于 Whisper 模型的在线音频转写工具，部署在 Cloudflare 上。可以将音频文件转换为文字，并支持生成 SRT 格式的字幕文件。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1006351721,
+            "language": "JavaScript",
+            "last_commit": "2025-06-22T04:49:48Z",
+            "owner": "thun888",
+            "repo": "whisper_cloudflare",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "micro-notepad",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1026715110,
+            "language": "JavaScript",
+            "last_commit": "2025-11-21T05:03:21Z",
+            "owner": "thun888",
+            "repo": "micro-notepad",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "迷你笔记本，对 pereorga/minimalist-web-notepad",
+          "description": "的cloudflare worker实现。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5299409,
+            "language": "PHP",
+            "last_commit": "2024-08-31T18:59:20Z",
+            "owner": "pereorga",
+            "repo": "minimalist-web-notepad",
+            "stars": 1338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cf-page-publish-mcp",
+          "description": "cloudflare 页面发布 mcp 工具，可以将 html 页面发布到 cloudflare，worker 上。可以mcp对接ai。 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 999266566,
+            "language": "TypeScript",
+            "last_commit": "2025-07-26T09:48:47Z",
+            "owner": "FactrueSolin",
+            "repo": "cf-page-publish-mcp",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShotOG",
+          "description": "开源 OG 图片生成 API，运行在 Cloudflare Workers 上。8 个模板、批量生成、自定义字体、边缘渲染 ~50ms。 https://shotog.2214962083.workers.dev 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1155843689,
+            "language": "TypeScript",
+            "last_commit": "2026-02-12T02:45:02Z",
+            "owner": "nicepkg",
+            "repo": "shotog",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redirect-checker",
+          "description": "基于 Cloudflare Workers 的 HTTP 重定向链分析器，支持检测重定向循环、性能测量、多种 User-Agent 预设（含 Googlebot/Bingbot）。提供 RESTful API 和响应式 Web UI。 https://redirect-checker.autocompany.workers.dev/ 维护中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1160423566,
+            "language": "TypeScript",
+            "last_commit": "2026-02-17T23:58:00Z",
+            "owner": "brancogao",
+            "repo": "redirect-checker",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "其他"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T17:43:48.673Z",
+    "last_updated": "2026-08-24T13:53:11.692Z",
     "original_repository": "zhuima/awesome-cloudflare",
     "original_repository_id": 783124783,
     "original_repository_sha": "4dfad4f51ff327076813c047c2b3d997a6853e1d",
