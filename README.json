@@ -30,7 +30,7 @@
             "last_commit": "2024-05-02T13:29:43Z",
             "owner": "ifyour",
             "repo": "cf-image-hosting",
-            "stars": 656
+            "stars": 657
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-27T03:57:46Z",
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4657
+            "stars": 4656
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-25T13:02:06Z",
             "owner": "MarSeventh",
             "repo": "CloudFlare-ImgBed",
-            "stars": 6299
+            "stars": 6302
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-07-16T07:10:34Z",
             "owner": "oiov",
             "repo": "vmail",
-            "stars": 1464
+            "stars": 1465
           }
         },
         {
@@ -243,10 +243,10 @@
             "archived": false,
             "id": 678900558,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T06:15:26Z",
+            "last_commit": "2026-08-27T18:44:36Z",
             "owner": "dreamhunter2333",
             "repo": "cloudflare_temp_email",
-            "stars": 11567
+            "stars": 11573
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-07-30T14:09:33Z",
             "owner": "beilunyang",
             "repo": "moemail",
-            "stars": 2802
+            "stars": 2801
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2026-08-26T18:37:34Z",
             "owner": "maillab",
             "repo": "cloud-mail",
-            "stars": 13719
+            "stars": 13727
           }
         },
         {
@@ -384,7 +384,7 @@
             "archived": false,
             "id": 266677657,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T00:07:39Z",
+            "last_commit": "2026-08-27T23:56:21Z",
             "owner": "microfeed",
             "repo": "microfeed",
             "stars": 4052
@@ -432,7 +432,7 @@
             "last_commit": "2025-06-06T11:05:12Z",
             "owner": "s0urcelab",
             "repo": "serverless-cloud-notepad",
-            "stars": 491
+            "stars": 492
           }
         },
         {
@@ -447,7 +447,7 @@
             "last_commit": "2026-08-20T03:38:18Z",
             "owner": "openRin",
             "repo": "Rin",
-            "stars": 2997
+            "stars": 3001
           }
         },
         {
@@ -669,7 +669,7 @@
             "last_commit": "2026-08-20T11:45:00Z",
             "owner": "miantiao-me",
             "repo": "Sink",
-            "stars": 7056
+            "stars": 7058
           }
         },
         {
@@ -771,7 +771,7 @@
             "last_commit": "2025-10-09T04:56:34Z",
             "owner": "hunshcn",
             "repo": "gh-proxy",
-            "stars": 8980
+            "stars": 8981
           }
         },
         {
@@ -816,7 +816,7 @@
             "last_commit": "2026-06-11T02:24:22Z",
             "owner": "1234567Yang",
             "repo": "cf-proxy-ex",
-            "stars": 1848
+            "stars": 1849
           }
         },
         {
@@ -846,7 +846,7 @@
             "last_commit": "2025-06-26T09:30:17Z",
             "owner": "cmliu",
             "repo": "CF-Workers-docker.io",
-            "stars": 9229
+            "stars": 9230
           }
         },
         {
@@ -903,7 +903,7 @@
             "archived": false,
             "id": 1161145093,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T03:57:45Z",
+            "last_commit": "2026-08-28T00:38:25Z",
             "owner": "smigolsmigol",
             "repo": "llmkit",
             "stars": 16
@@ -987,7 +987,7 @@
             "last_commit": "2026-01-23T08:12:18Z",
             "owner": "ling-drag0n",
             "repo": "CloudPaste",
-            "stars": 2620
+            "stars": 2622
           }
         },
         {
@@ -1083,7 +1083,7 @@
             "last_commit": "2026-08-23T06:31:44Z",
             "owner": "XIU2",
             "repo": "CloudflareSpeedTest",
-            "stars": 28765
+            "stars": 28773
           }
         },
         {
@@ -1164,7 +1164,7 @@
             "last_commit": "2026-08-12T12:45:33Z",
             "owner": "kadidalax",
             "repo": "cf-vps-monitor",
-            "stars": 906
+            "stars": 907
           }
         },
         {
@@ -1341,7 +1341,7 @@
             "last_commit": "2025-12-07T07:50:43Z",
             "owner": "miantiao-me",
             "repo": "ip-api",
-            "stars": 371
+            "stars": 370
           }
         },
         {
@@ -1386,7 +1386,7 @@
             "last_commit": "2024-03-14T15:01:52Z",
             "owner": "ifyour",
             "repo": "deeplx-for-cloudflare",
-            "stars": 596
+            "stars": 597
           }
         },
         {
@@ -1431,7 +1431,7 @@
             "last_commit": "2025-06-06T11:05:12Z",
             "owner": "s0urcelab",
             "repo": "serverless-cloud-notepad",
-            "stars": 491
+            "stars": 492
           }
         },
         {
@@ -1491,7 +1491,7 @@
             "last_commit": "2026-06-05T11:58:16Z",
             "owner": "fatwang2",
             "repo": "siri-ultra",
-            "stars": 1206
+            "stars": 1205
           }
         },
         {
@@ -1536,7 +1536,7 @@
             "last_commit": "2026-06-04T05:10:53Z",
             "owner": "oiov",
             "repo": "wr.do",
-            "stars": 2281
+            "stars": 2280
           }
         },
         {
@@ -1566,7 +1566,7 @@
             "last_commit": "2026-07-19T13:56:48Z",
             "owner": "7Sageer",
             "repo": "sublink-worker",
-            "stars": 5321
+            "stars": 5320
           }
         },
         {
@@ -1581,7 +1581,7 @@
             "last_commit": "2026-08-17T01:39:40Z",
             "owner": "ValueMelody",
             "repo": "melody-auth",
-            "stars": 635
+            "stars": 636
           }
         },
         {
@@ -1611,7 +1611,7 @@
             "last_commit": "2026-08-10T12:05:37Z",
             "owner": "shuaiplus",
             "repo": "nodewarden",
-            "stars": 3443
+            "stars": 3447
           }
         },
         {
@@ -1626,7 +1626,7 @@
             "last_commit": "2026-08-09T12:41:44Z",
             "owner": "qaz741wsd856",
             "repo": "warden-worker",
-            "stars": 1259
+            "stars": 1260
           }
         },
         {
@@ -1911,7 +1911,7 @@
             "last_commit": "2024-08-31T18:59:20Z",
             "owner": "pereorga",
             "repo": "minimalist-web-notepad",
-            "stars": 1337
+            "stars": 1336
           }
         },
         {
@@ -1964,7 +1964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:29:27.521Z",
+    "last_updated": "2026-08-28T01:35:31.587Z",
     "original_repository_info": {
       "archived": false,
       "id": 783124783,
@@ -1972,7 +1972,7 @@
       "last_commit": "2026-06-30T01:51:01Z",
       "owner": "zhuima",
       "repo": "awesome-cloudflare",
-      "stars": 15141
+      "stars": 15140
     },
     "original_repository_sha": "4dfad4f51ff327076813c047c2b3d997a6853e1d",
     "enhanced_repository": "enhansome/enhansome-cloudflare",
