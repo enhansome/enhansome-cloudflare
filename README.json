@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Build a free image hosting with Telegraph",
+            "homepage": "https://missuo.ru",
             "id": 341228479,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-09-08T19:12:05Z",
+            "open_issues": 0,
             "owner": "missuo",
             "repo": "Telegraph-Image-Hosting",
-            "stars": 307
+            "stars": 307,
+            "topics": [
+              "http",
+              "https",
+              "image-hosting",
+              "nginx",
+              "php",
+              "ssl",
+              "static",
+              "telegram",
+              "telegraph"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -26,12 +41,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🥊  Free & Unlimited Image Hosting",
+            "homepage": "https://images.mingming.dev",
             "id": 750909504,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-05-02T13:29:43Z",
+            "open_issues": 3,
             "owner": "ifyour",
             "repo": "cf-image-hosting",
-            "stars": 658
+            "stars": 658,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -42,12 +62,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram bot（img-mon | 图片老妈）",
+            "homepage": null,
             "id": 753208084,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-04-12T14:20:11Z",
+            "open_issues": 2,
             "owner": "beilunyang",
             "repo": "img-mom",
-            "stars": 122
+            "stars": 122,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -58,12 +83,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cloudflare worker简易图床",
+            "homepage": null,
             "id": 563266136,
             "language": "Vue",
+            "license": null,
             "last_commit": "2023-02-05T12:11:03Z",
+            "open_issues": 0,
             "owner": "iiop123",
             "repo": "workers-image-hosting",
-            "stars": 159
+            "stars": 159,
+            "topics": [
+              "cloudflare",
+              "cloudflare-workers",
+              "image",
+              "image-host",
+              "image-hosting",
+              "image-sharing",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -74,12 +112,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.",
+            "homepage": "https://im.gurl.eu.org",
             "id": 560101664,
             "language": "HTML",
+            "license": "CC0-1.0",
             "last_commit": "2026-07-27T03:57:46Z",
+            "open_issues": 26,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4657
+            "stars": 4657,
+            "topics": [
+              "cloudflare",
+              "cloudflare-pages",
+              "flickr",
+              "image",
+              "image-host",
+              "image-hosting",
+              "image-sharing",
+              "imgur",
+              "serverless",
+              "telegraph",
+              "upload-images"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -90,12 +145,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "使用 Cloudflare Worker + Container 处理图片, 依赖 Photon，支持缩放、剪裁、水印、滤镜等功能。",
+            "homepage": "https://chi.miantiao.me/posts/cloudflare-worker-image/",
             "id": 721994577,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-29T04:55:08Z",
+            "open_issues": 5,
             "owner": "miantiao-me",
             "repo": "cloudflare-worker-image",
-            "stars": 377
+            "stars": 377,
+            "topics": [
+              "cloudflare",
+              "cloudflare-containers",
+              "cloudflare-workers",
+              "containers",
+              "image",
+              "image-processing",
+              "worker"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -106,12 +174,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "使用Telegram作为存储的文件外链系统，不限制文件大小和格式。",
+            "homepage": "https://www.csz.net",
             "id": 699221013,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-04-13T11:37:39Z",
+            "open_issues": 14,
             "owner": "csznet",
             "repo": "tgState",
-            "stars": 1044
+            "stars": 1044,
+            "topics": [
+              "file",
+              "file-sharing",
+              "file-upload",
+              "filesystem",
+              "go",
+              "golang",
+              "images",
+              "imageserver",
+              "img",
+              "storage",
+              "storage-api",
+              "storage-service",
+              "telegram",
+              "telegram-api",
+              "telegram-bot",
+              "telegram-bot-api",
+              "telegrambot",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -122,12 +214,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://img.131213.xyz",
             "id": 661741181,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-06-10T12:57:31Z",
+            "open_issues": 36,
             "owner": "x-dr",
             "repo": "telegraph-Image",
-            "stars": 1577
+            "stars": 1577,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -138,12 +235,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A free image hosting application based on Cloudflare's Worker, R2, Pages, and D1 architectures.一款基于 Cloudflare 的 Worker、R2、Pages、D1 实现的免费图床应用",
+            "homepage": null,
             "id": 596907203,
             "language": "Vue",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-16T01:25:16Z",
+            "open_issues": 6,
             "owner": "roimdev",
             "repo": "roim-picx",
-            "stars": 292
+            "stars": 292,
+            "topics": [
+              "cloudflare",
+              "d1",
+              "hono",
+              "pages",
+              "r2"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -154,12 +262,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏖️ A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.",
+            "homepage": "https://cfbed.sanyue.de",
             "id": 831066597,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T13:02:06Z",
+            "open_issues": 41,
             "owner": "MarSeventh",
             "repo": "CloudFlare-ImgBed",
-            "stars": 6312
+            "stars": 6313,
+            "topics": [
+              "asset-management",
+              "cloud-native",
+              "cloudflare-d1",
+              "cloudflare-r2",
+              "cloudflare-workers",
+              "edge-computing",
+              "image-gallery",
+              "image-hosting",
+              "imgbed",
+              "infra",
+              "media-server",
+              "multi-platform",
+              "serverless",
+              "uploader"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -170,12 +298,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ImageHosting Github login + Cloudflare R2 + D1 + Astro SSR | 图床&图片上传",
+            "homepage": "https://imguu.net",
             "id": 929257392,
             "language": "Astro",
+            "license": "MIT",
             "last_commit": "2025-03-13T06:23:22Z",
+            "open_issues": 0,
             "owner": "yestool",
             "repo": "imgUU",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "astro",
+              "cloudflare",
+              "image-hosting"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -186,12 +323,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于cloudflare worker与R2存储桶的TG图床机器人，将免费贯彻到底",
+            "homepage": null,
             "id": 961964490,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-04-21T10:41:30Z",
+            "open_issues": 1,
             "owner": "xinycai",
             "repo": "cloudflare-r2-telegram-bot",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -202,12 +344,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 Cloudflare Workers + R2 的多入口图床与图片管理平台",
+            "homepage": null,
             "id": 1016000007,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-12-04T16:48:20Z",
+            "open_issues": 0,
             "owner": "WangQueXL",
             "repo": "PixR2",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         }
@@ -224,12 +371,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📫 只需一个域名部署临时邮箱到 Cloudflare Worker，支持收发邮件，使用 D1 保存数据，支持多域名后缀，密码找回，开放API接口。",
+            "homepage": "https://vmail.dev",
             "id": 782503959,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-16T07:10:34Z",
+            "open_issues": 2,
             "owner": "oiov",
             "repo": "vmail",
-            "stars": 1464
+            "stars": 1464,
+            "topics": [
+              "cloudflare-workers",
+              "d1-database",
+              "email",
+              "email-sender",
+              "temporary-email"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -240,12 +398,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Temporary email  临时邮箱 smail",
+            "homepage": "https://smail.pw",
             "id": 744065373,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-04-18T14:54:28Z",
+            "open_issues": 10,
             "owner": "akazwz",
             "repo": "smail",
-            "stars": 918
+            "stars": 918,
+            "topics": [
+              "cloudflare",
+              "cloudflare-workers",
+              "email",
+              "react-router-v7"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -256,12 +424,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+            "homepage": "https://mail.awsl.uk",
             "id": 678900558,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T18:44:36Z",
+            "open_issues": 23,
             "owner": "dreamhunter2333",
             "repo": "cloudflare_temp_email",
-            "stars": 11576
+            "stars": 11576,
+            "topics": [
+              "cloudflare-email",
+              "cloudflare-pages",
+              "cloudflare-workers",
+              "email",
+              "free"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -272,12 +451,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Forward email to telegram with Cloudflare Email Routing",
+            "homepage": "https://deepwiki.com/TBXark/mail2telegram",
             "id": 704429081,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-17T05:37:58Z",
+            "open_issues": 1,
             "owner": "tbxark",
             "repo": "mail2telegram",
-            "stars": 883
+            "stars": 883,
+            "topics": [
+              "cloudflare",
+              "cloudflare-email-routing",
+              "cloudflare-mail",
+              "cloudflare-workers",
+              "email",
+              "mail-bot",
+              "serverless",
+              "telegram-bot",
+              "telegram-mini-apps",
+              "telegram-web-apps"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -288,12 +483,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Auth Inbox 📬 is a self-hosted, open-source platform for receiving multiple email verification codes and real-time notifications, built using Cloudflare's free services. | Auth Inbox 📬 是一个自建的开源多邮箱验证码的接码平台，基于 Cloudflare 的免费服务。",
+            "homepage": null,
             "id": 868950418,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-09T04:22:29Z",
+            "open_issues": 1,
             "owner": "TooonyChen",
             "repo": "AuthInbox",
-            "stars": 184
+            "stars": 184,
+            "topics": [
+              "2fa",
+              "cloudflare",
+              "cloudflare-email",
+              "cloudflare-email-routing",
+              "cloudflare-workers",
+              "email",
+              "mail",
+              "multiple-emails",
+              "open-source",
+              "security",
+              "verfication"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -304,12 +516,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 | 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉  ",
+            "homepage": "https://moemail.app",
             "id": 896908848,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-30T14:09:33Z",
+            "open_issues": 64,
             "owner": "beilunyang",
             "repo": "moemail",
-            "stars": 2800
+            "stars": 2800,
+            "topics": [
+              "cloudflare",
+              "cloudflare-workers",
+              "email",
+              "temp-email"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -320,12 +542,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ZMAIL-24小时临时邮箱",
+            "homepage": "https://mail.mdzz.uk",
             "id": 945648745,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-01T16:09:52Z",
+            "open_issues": 1,
             "owner": "takumi913",
             "repo": "zmail",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -336,12 +563,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail",
+            "homepage": "https://skymail.ink",
             "id": 971999086,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:00:19Z",
+            "open_issues": 68,
             "owner": "maillab",
             "repo": "cloud-mail",
-            "stars": 13750
+            "stars": 13756,
+            "topics": [
+              "cloudflare",
+              "cloudflare-email",
+              "cloudflare-workers",
+              "email",
+              "mail"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -352,12 +590,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Powered Email Aggregation  Client | AI识别的邮件聚合客户端",
+            "homepage": null,
             "id": 1084031728,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-06-05T01:15:41Z",
+            "open_issues": 2,
             "owner": "bestruirui",
             "repo": "Alle",
-            "stars": 451
+            "stars": 451,
+            "topics": [
+              "ai",
+              "cloudflare",
+              "email",
+              "nextjs"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         }
@@ -374,12 +622,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Blog Powered By Cloudflare Workers and KV ",
+            "homepage": "https://blog.gezhong.vip/",
             "id": 323549019,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-06-09T07:58:40Z",
+            "open_issues": 17,
             "owner": "gdtool",
             "repo": "cloudflare-workers-blog",
-            "stars": 1187
+            "stars": 1186,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -390,12 +643,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "☁️ Cloudflare workers + Github 实现的动态博客系统，使用边缘计算，无需服务器",
+            "homepage": "https://blog.natfrp.org/",
             "id": 190681445,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-12-13T10:21:35Z",
+            "open_issues": 6,
             "owner": "kasuganosoras",
             "repo": "cloudflare-worker-blog",
-            "stars": 468
+            "stars": 468,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -406,12 +664,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an agentic cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.",
+            "homepage": "https://www.microfeed.org/",
             "id": 266677657,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T18:51:52Z",
+            "open_issues": 43,
             "owner": "microfeed",
             "repo": "microfeed",
-            "stars": 4052
+            "stars": 4052,
+            "topics": [
+              "agentic-cms",
+              "agentic-workflow",
+              "cloudflare",
+              "cloudflare-d1",
+              "cloudflare-queues",
+              "cloudflare-r2",
+              "cloudflare-workers",
+              "cloudflare-zero-trust",
+              "cms",
+              "headless-cms",
+              "podcast-host",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -422,12 +698,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web component that provides github styled emoji reaction for blogs.",
+            "homepage": "https://emaction.cool",
             "id": 666701594,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-09-13T07:59:56Z",
+            "open_issues": 1,
             "owner": "emaction",
             "repo": "emaction.frontend",
-            "stars": 190
+            "stars": 190,
+            "topics": [
+              "emoji",
+              "reaction"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -438,12 +722,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emaction backend.",
+            "homepage": null,
             "id": 666701710,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-08-10T01:44:44Z",
+            "open_issues": 0,
             "owner": "emaction",
             "repo": "emaction.backend",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -454,12 +743,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "☁ Yet Another Cloud Notepad.",
+            "homepage": "https://note.src.moe",
             "id": 491929454,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-06-06T11:05:12Z",
+            "open_issues": 6,
             "owner": "s0urcelab",
             "repo": "serverless-cloud-notepad",
-            "stars": 492
+            "stars": 492,
+            "topics": [
+              "cloudflare",
+              "cloudflare-workers",
+              "javascript",
+              "workers"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -470,12 +769,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌸Publish faster with an edge-native blog powered by Cloudflare Workers, D1, and R2",
+            "homepage": "https://docs.openrin.org",
             "id": 803866357,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:43:16Z",
+            "open_issues": 73,
             "owner": "openRin",
             "repo": "Rin",
-            "stars": 3018
+            "stars": 3018,
+            "topics": [
+              "blog",
+              "bun",
+              "bunjs",
+              "cloudflare",
+              "cloudflare-workers",
+              "framework",
+              "react",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -486,12 +799,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a comment woker with only one file (easily use",
+            "homepage": "https://comment.joyance.page/area/test-4",
             "id": 906611715,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-03-08T04:42:58Z",
+            "open_issues": 0,
             "owner": "joyance-professional",
             "repo": "cf-comment",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "cloudflare-workers",
+              "comments-system"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -502,12 +823,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 High-performance edge blog: Astro + Cloudflare Workers/D1/R2/KV + Hono. Features AI search, OAuth system, and a sleek Neo-Aesthetics design. ✨💻",
+            "homepage": "https://blog.ichimarugin728.com",
             "id": 1142955824,
             "language": "Astro",
+            "license": "MIT",
             "last_commit": "2026-05-17T09:45:58Z",
+            "open_issues": 0,
             "owner": "IchimaruGin728",
             "repo": "Gins-Blog",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "ai",
+              "arctic",
+              "astro",
+              "biome",
+              "blog",
+              "cf",
+              "cloudflare",
+              "cloudflare-d1",
+              "cloudflare-r2",
+              "cloudflare-workers",
+              "drizzle-orm",
+              "hono",
+              "jsr",
+              "mcp",
+              "pnpm",
+              "satori",
+              "typescript",
+              "unocss",
+              "wrangler"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         }
@@ -524,12 +870,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next.js App running with Lemon Squeezy on Cloudflare.",
+            "homepage": "https://nextflare-template.pages.dev",
             "id": 818043741,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-15T13:13:35Z",
+            "open_issues": 0,
             "owner": "miantiao-me",
             "repo": "nextflare",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "cloudflare",
+              "cloudflare-d1",
+              "cloudflare-d1-with-drizzle-orm",
+              "lemonsqueezy",
+              "nextjs",
+              "nextjs14"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -540,12 +898,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "microservices.sh — scaffold and ship Cloudflare-native SaaS apps from verified modules (Workers, D1, SvelteKit, Hono).",
+            "homepage": "https://microservices.sh",
             "id": 1269100468,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-06-22T20:46:16Z",
+            "open_issues": 0,
             "owner": "microservices-sh",
             "repo": "microservices-sh",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "ai-agents",
+              "boilerplate",
+              "claude-code",
+              "cloudflare",
+              "cloudflare-d1",
+              "cloudflare-workers",
+              "coding-agent",
+              "d1",
+              "edge",
+              "fullstack",
+              "hono",
+              "mcp",
+              "microservices",
+              "multi-tenant",
+              "saas",
+              "saas-boilerplate",
+              "saas-starter",
+              "sveltekit"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         }
@@ -562,12 +944,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A URL Shortener created using Cloudflare Pages",
+            "homepage": "https://d.igdu.xyz/",
             "id": 744893954,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-05-19T03:02:52Z",
+            "open_issues": 0,
             "owner": "igengdu",
             "repo": "short",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -578,12 +965,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个使用 Cloudflare Pages 创建的 URL 缩短器。A URL Shortener created using Cloudflare Pages",
+            "homepage": "https://short-3ud.pages.dev/",
             "id": 682148561,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-06-27T13:08:11Z",
+            "open_issues": 7,
             "owner": "x-dr",
             "repo": "short",
-            "stars": 449
+            "stars": 449,
+            "topics": [
+              "short",
+              "short-link",
+              "short-url"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -594,12 +990,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "一个使用 Cloudflare Pages 创建的 URL 缩短器。A URL Shortener created using Cloudflare Pages",
+            "homepage": "https://linklet.pages.dev",
             "id": 770783704,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-10-21T09:38:25Z",
+            "open_issues": 0,
             "owner": "harrisonwang",
             "repo": "linklet",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -610,12 +1011,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "使用秘密路径访问操作页面. 支持自定义短链. API 不公开服务. 页面缓存设置过的短链. 长链接文本框预搜索localStorage. 增加删除某条短链的按钮. 增加读取KV的按钮. 支持QRcode二维码. 变身网络记事本 Pastebin. 变身图床 Image Hosting. 变身网络日记本. A URL Shortener created using Cloudflare worker and KV",
+            "homepage": "https://zelikk.blogspot.com/2022/07/url-shorten-worker-hide-tutorial.html",
             "id": 514299377,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-06-19T01:02:23Z",
+            "open_issues": 7,
             "owner": "crazypeace",
             "repo": "Url-Shorten-Worker",
-            "stars": 557
+            "stars": 557,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -626,12 +1032,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shorten your links without serves because it based on Cloudflare workers function with minimalist style.Hope u like:)",
+            "homepage": "https://www.clost.net/default/513.html",
             "id": 259568006,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2020-05-14T17:13:41Z",
+            "open_issues": 3,
             "owner": "Closty",
             "repo": "duanwangzhi",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "cfworker",
+              "cloudflare-workers",
+              "html",
+              "shortlinks",
+              "shorturls"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -642,12 +1059,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "使用秘密路径访问操作页面。支持自定义短链。API 不公开服务。页面缓存设置过的短链。长链接文本框预搜索localStorage。增加删除某条短链的按钮。增加读取KV的按钮。变身网络记事本 Pastebin。变身图床 Image Hosting。A URL Shortener created using Cloudflare worker and KV",
+            "homepage": "https://zelikk.blogspot.com/2022/07/url-shorten-worker-hide-tutorial.html",
             "id": 782950475,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-04-06T14:42:51Z",
+            "open_issues": 0,
             "owner": "horsemail",
             "repo": "Url-Shorten-Worker",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -658,12 +1080,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "☁ Url Redirector based on CF Pages.",
+            "homepage": "https://cz.cyou",
             "id": 524602103,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-05-25T15:27:47Z",
+            "open_issues": 1,
             "owner": "Jiaocz",
             "repo": "CloudFlare-Pages-UrlShorten",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "cloudflare-pages",
+              "cloudflare-pages-functions"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -674,12 +1104,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A URL Shortener created using Cloudflare worker, enables access control, regex redirection, customization and local storage of short links. 一款可基于 Cloudflare worker 部署，支持权限控制、正则转换等功能的短链接生成器。",
+            "homepage": "https://url-shortener-demo.jhw.li/",
             "id": 531947390,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-11T05:31:56Z",
+            "open_issues": 0,
             "owner": "Monopink",
             "repo": "url-shortener",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "cloudflare",
+              "cloudflare-workers",
+              "link-shortener",
+              "regex"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -690,12 +1130,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "使用Cloudflare Worker创建的URL缩短器",
+            "homepage": null,
             "id": 645692568,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-03T14:09:07Z",
+            "open_issues": 1,
             "owner": "Ai-Yolo",
             "repo": "CloudflareWorker-KV-UrlShort",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -706,12 +1151,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.",
+            "homepage": "https://Sink.Cool",
             "id": 796284842,
             "language": "Vue",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-20T11:45:00Z",
+            "open_issues": 16,
             "owner": "miantiao-me",
             "repo": "Sink",
-            "stars": 7062
+            "stars": 7062,
+            "topics": [
+              "analytics",
+              "bitly-alternative",
+              "cloudflare",
+              "hacktoberfest",
+              "link-shortener",
+              "nuxt",
+              "nuxthub",
+              "shadcn-ui",
+              "tailwindcss",
+              "url-shortener",
+              "web-analytics"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -722,12 +1184,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A URL Short & STUN Redirect Service on Cloudflare Worker",
+            "homepage": "https://1web.us.kg/",
             "id": 918864142,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-25T08:22:59Z",
+            "open_issues": 0,
             "owner": "PIKACHUIM",
             "repo": "CFWorkerUrls",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "cloudflare",
+              "cloudflare-kv",
+              "cloudflare-workers",
+              "css",
+              "html",
+              "javascript",
+              "saas",
+              "serverless",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         }
@@ -744,12 +1221,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a simple web analytics use Cloudflare workers + D1 + Huno. 👉 https://webviso.yestool.org",
+            "homepage": "https://webviso.yestool.org",
             "id": 726792704,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-10-23T14:27:52Z",
+            "open_issues": 0,
             "owner": "yestool",
             "repo": "analytics_with_cloudflare",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "analytics",
+              "cloudflare-d1",
+              "cloudflare-workers",
+              "huno"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -760,12 +1247,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scalable web analytics you run yourself on Cloudflare",
+            "homepage": "https://counterscale.dev",
             "id": 734549972,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-11T01:56:29Z",
+            "open_issues": 19,
             "owner": "benvinegar",
             "repo": "counterscale",
-            "stars": 2121
+            "stars": 2121,
+            "topics": [
+              "analytics",
+              "cloudflare-analytics",
+              "cloudflare-workers",
+              "google-analytics",
+              "website-stats"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -776,12 +1274,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个简单的网络分析跟踪器和仪表板，在 Cloudflare Pages 上即可快速部署的网站分析仪表板,无成本稳定运行",
+            "homepage": "https://analytics.vvhan.com",
             "id": 861181674,
             "language": "Less",
+            "license": "MIT",
             "last_commit": "2025-03-19T09:34:34Z",
+            "open_issues": 4,
             "owner": "uxiaohan",
             "repo": "HanAnalytics",
-            "stars": 277
+            "stars": 277,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -792,12 +1295,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Privacy-first web analytics built on Cloudflare Workers. No cookies, no tracking, GDPR-compliant by design.",
+            "homepage": "https://beam-privacy.com",
             "id": 1203916190,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-16T20:11:34Z",
+            "open_issues": 0,
             "owner": "scobb",
             "repo": "beam",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "analytics",
+              "cloudflare-workers",
+              "cookie-free",
+              "gdpr",
+              "open-source",
+              "privacy",
+              "privacy-first",
+              "self-hosted",
+              "typescript",
+              "web-analytics"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         }
@@ -814,12 +1333,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "github release、archive以及项目文件的加速项目",
+            "homepage": null,
             "id": 249088403,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-09T04:56:34Z",
+            "open_issues": 37,
             "owner": "hunshcn",
             "repo": "gh-proxy",
-            "stars": 8984
+            "stars": 8986,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -830,12 +1354,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏖 Open any GitHub repo in CodeSandbox by changing the hostname",
+            "homepage": "https://twitter.com/dferber90/status/1252594897619759104",
             "id": 257394721,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-08-31T16:46:01Z",
+            "open_issues": 2,
             "owner": "dferber90",
             "repo": "githubbox",
-            "stars": 620
+            "stars": 620,
+            "topics": [
+              "cloudflare-workers",
+              "codesandbox",
+              "github"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -846,12 +1379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "github release、archive以及项目文件的加速项目. 支持 api.github.com, git.io 支持github脚本的无限嵌套调用",
+            "homepage": "https://crazypeace.github.io/gh-proxy/",
             "id": 604963951,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-14T05:32:26Z",
+            "open_issues": 2,
             "owner": "crazypeace",
             "repo": "gh-proxy",
-            "stars": 102
+            "stars": 102,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -862,12 +1400,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Claude3），Github加速，支持解锁Libgen，在线代理。现已支持多平台部署。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker, support Duckduckgo / Libgen. Now you can deploy this project on different platforms.",
+            "homepage": "https://y.demo.lhyang.org/",
             "id": 815606399,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-11T02:24:22Z",
+            "open_issues": 21,
             "owner": "1234567Yang",
             "repo": "cf-proxy-ex",
-            "stars": 1848
+            "stars": 1848,
+            "topics": [
+              "bypass",
+              "cloudflare-proxy",
+              "cloudflare-reverse-proxy",
+              "cloudflare-workers",
+              "free-proxy",
+              "github-proxy",
+              "goguardian",
+              "linewize",
+              "online-proxy",
+              "reverse-proxy"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -878,12 +1432,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": " A docker registry proxy run on cloudflare worker.",
+            "homepage": null,
             "id": 472464387,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-11-16T04:32:47Z",
+            "open_issues": 9,
             "owner": "ciiiii",
             "repo": "cloudflare-docker-proxy",
-            "stars": 1975
+            "stars": 1975,
+            "topics": [
+              "cloudflare-worker",
+              "docker-registry",
+              "proxy"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -894,12 +1457,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。",
+            "homepage": "https://Docker.fxxk.dedyn.io",
             "id": 813254316,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-06-26T09:30:17Z",
+            "open_issues": 54,
             "owner": "cmliu",
             "repo": "CF-Workers-docker.io",
-            "stars": 9228
+            "stars": 9228,
+            "topics": [
+              "cloudflare-pages",
+              "cloudflare-workers",
+              "docker",
+              "dockerhub"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -910,12 +1483,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Cloudflare pages script for forwarding your request to API host.",
+            "homepage": null,
             "id": 917101793,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-02-07T08:24:49Z",
+            "open_issues": 0,
             "owner": "xinjianzhanghao",
             "repo": "page-api-forwarder",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -926,12 +1504,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌐 A simple Cloudflare Worker - Serverless & Cost-Effective: No need to rent or manage your own server. Cloudflare Workers operate on a serverless model, and the free tier is often sufficient for personal use",
+            "homepage": null,
             "id": 973153650,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-01T08:48:04Z",
+            "open_issues": 0,
             "owner": "qyjoy",
             "repo": "AI-worker",
-            "stars": 324
+            "stars": 324,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -942,12 +1525,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gemini API 中转代理",
+            "homepage": null,
             "id": 1033730709,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-22T17:35:29Z",
+            "open_issues": 9,
             "owner": "takumi913",
             "repo": "gemini-balance-do",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -958,12 +1546,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Know what your AI agents cost. API gateway with budget enforcement, session tracking, and MCP tools.",
+            "homepage": "https://llmkit.sh",
             "id": 1161145093,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T22:28:30Z",
+            "open_issues": 14,
             "owner": "smigolsmigol",
             "repo": "llmkit",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-gateway",
+              "anthropic",
+              "api-gateway",
+              "budget-enforcement",
+              "cloudflare-workers",
+              "cost-estimation",
+              "cost-tracking",
+              "durable-objects",
+              "llm",
+              "llm-cost",
+              "llm-observability",
+              "llmkit",
+              "mcp",
+              "model-context-protocol",
+              "openai",
+              "python",
+              "typescript",
+              "vercel-ai-sdk"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         }
@@ -980,12 +1594,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pastebin on Cloudflare worker, with friendly CLI usage and rich features",
+            "homepage": "https://shz.al",
             "id": 352382320,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T04:30:19Z",
+            "open_issues": 12,
             "owner": "SharzyL",
             "repo": "pastebin-worker",
-            "stars": 1047
+            "stars": 1047,
+            "topics": [
+              "cloudflare-worker",
+              "pastebin",
+              "self-hosted",
+              "wrangler"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -996,12 +1620,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "运行在边缘函数上的在线剪贴板/文件共享",
+            "homepage": null,
             "id": 775257907,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-27T12:32:38Z",
+            "open_issues": 1,
             "owner": "woaiqjj",
             "repo": "FileWorker",
-            "stars": 393
+            "stars": 393,
+            "topics": [
+              "cloudflare",
+              "cloudflare-pages",
+              "cloudflare-r2",
+              "cloudflare-workers"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1012,12 +1646,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "丁丁快传-基于cloudflare workers的文件传输工具",
+            "homepage": null,
             "id": 575288134,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2023-02-09T04:59:51Z",
+            "open_issues": 2,
             "owner": "iiop123",
             "repo": "dingding",
-            "stars": 227
+            "stars": 227,
+            "topics": [
+              "cloudflare-workers",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1028,12 +1670,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "file sharing tool running on Cloudflare Workers, supporting R2 and D1 dual storage solutions.",
+            "homepage": null,
             "id": 884847308,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-01-01T06:11:47Z",
+            "open_issues": 6,
             "owner": "joyance-professional",
             "repo": "cf-files-sharing",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "cloudflare-workers",
+              "file-sharing"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1044,12 +1694,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合管理和WebDAV 服务挂载。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、30+文件格式预览。支持 Cloudflare Workers 或 Docker 部署。",
+            "homepage": "https://doc.cloudpaste.qzz.io",
             "id": 959136800,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-23T08:12:18Z",
+            "open_issues": 39,
             "owner": "ling-drag0n",
             "repo": "CloudPaste",
-            "stars": 2623
+            "stars": 2623,
+            "topics": [
+              "cloudflare",
+              "cloudflare-workers",
+              "docker",
+              "file-browser",
+              "huggingface",
+              "markdown",
+              "onedrive",
+              "s3",
+              "telegram",
+              "telegrambot",
+              "webdav"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1060,12 +1727,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast and simple tool to store and share temporary files via Cloudflare Workers.",
+            "homepage": null,
             "id": 911034322,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-02-08T12:34:26Z",
+            "open_issues": 1,
             "owner": "lyonbot",
             "repo": "cf-drop",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1076,12 +1748,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monorepo of my public softwares. ",
+            "homepage": "https://jiacai2050.github.io/my-works/",
             "id": 967146837,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-07-03T15:42:18Z",
+            "open_issues": 4,
             "owner": "jiacai2050",
             "repo": "my-works",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1092,12 +1769,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R2 is a MacOS app the allows you to conveniently upload files to your Cloudflare R2 buckets",
+            "homepage": "https://r2drop.com",
             "id": 1164936316,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-06-24T08:18:26Z",
+            "open_issues": 2,
             "owner": "superhumancorp",
             "repo": "r2drop",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "bucket-storage",
+              "cf",
+              "cf-workers",
+              "cloudflare",
+              "file-upload",
+              "macos",
+              "macos-app",
+              "menu-bar-app",
+              "object-storage",
+              "r2",
+              "r2-drop",
+              "r2-uploader",
+              "r2drop",
+              "rust",
+              "rust-cli",
+              "s3",
+              "swift",
+              "swiftui",
+              "uploader",
+              "wrangler"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1108,12 +1811,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 Cloudflare 的 Serverless 聚合云盘。以 Telegram 为核心（支持 Webhook 直传与 2GB 扩展），并全面兼容 R2、S3、Discord 及 HuggingFace 等多存储后端。零成本构建你的全能私有数据金库。",
+            "homepage": null,
             "id": 1148777144,
             "language": "HTML",
+            "license": "CC0-1.0",
             "last_commit": "2026-07-06T03:31:11Z",
+            "open_issues": 4,
             "owner": "katelya77",
             "repo": "K-Vault",
-            "stars": 763
+            "stars": 763,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1124,12 +1832,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ZeroLink — End-to-end encrypted, zero-knowledge secret sharing with WebAuthn-based control and TOFU-safe design.",
+            "homepage": "https://zerolink.dev",
             "id": 1164726609,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-09T07:34:43Z",
+            "open_issues": 2,
             "owner": "yclgkd",
             "repo": "zerolink",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "cloudflare-workers",
+              "cryptography",
+              "e2ee",
+              "password-sharing",
+              "privacy",
+              "secret-sharing",
+              "security",
+              "webauthn",
+              "zero-knowledge"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         }
@@ -1146,12 +1869,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~",
+            "homepage": null,
             "id": 291485614,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-23T06:31:44Z",
+            "open_issues": 30,
             "owner": "XIU2",
             "repo": "CloudflareSpeedTest",
-            "stars": 28787
+            "stars": 28789,
+            "topics": [
+              "cdn",
+              "cloudflare",
+              "go",
+              "golang",
+              "speedtest"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1162,12 +1896,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "优选ip 工具，适用于CF CDN 测速，支持地区/ASN筛选，支持IPV6/CIDR，支持自定义端口，适用于各大网站加速，测速。",
+            "homepage": null,
             "id": 888876597,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-15T01:46:42Z",
+            "open_issues": 0,
             "owner": "lovegitgit",
             "repo": "ip-check",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "cdn",
+              "cloudflare",
+              "cloudfront",
+              "docker",
+              "python3",
+              "speedtest"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         }
@@ -1184,12 +1930,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks",
+            "homepage": null,
             "id": 704810343,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-01T15:10:21Z",
+            "open_issues": 21,
             "owner": "lyc8503",
             "repo": "UptimeFlare",
-            "stars": 3749
+            "stars": 3747,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1200,12 +1951,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.",
+            "homepage": "https://status-page.eidam.dev",
             "id": 311061056,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-21T08:32:55Z",
+            "open_issues": 46,
             "owner": "eidam",
             "repo": "cf-workers-status-page",
-            "stars": 2810
+            "stars": 2810,
+            "topics": [
+              "cloudflare-workers",
+              "cloudflare-workers-cron",
+              "cloudflare-workers-kv",
+              "discord",
+              "flareact",
+              "monitoring",
+              "slack-notifications",
+              "status-page",
+              "telegram-notification",
+              "wrangler"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1216,12 +1983,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "XUGOU-基于CloudFlare的轻量化监控平台",
+            "homepage": "https://xugou.mdzz.uk/status",
             "id": 951972403,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T03:53:19Z",
+            "open_issues": 0,
             "owner": "takumi913",
             "repo": "xugou",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1232,12 +2004,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "用cloudflare worker搭建的vps探针+网站检测 面板，部署简单，不需要服务器。",
+            "homepage": null,
             "id": 972521712,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-12T12:45:33Z",
+            "open_issues": 4,
             "owner": "kadidalax",
             "repo": "cf-vps-monitor",
-            "stars": 907
+            "stars": 907,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1248,12 +2025,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SSL Certificate Expiry Monitor - Monitor SSL certificates and get alerts before they expire",
+            "homepage": null,
             "id": 1160656833,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-02-18T16:53:51Z",
+            "open_issues": 0,
             "owner": "brancogao",
             "repo": "ssl-certificate-monitor",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1264,12 +2046,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Universal deployment tracker for AI assistants - check deployment status without leaving your AI chat",
+            "homepage": "https://deploy-mcp.io",
             "id": 1030972354,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-09T03:41:02Z",
+            "open_issues": 7,
             "owner": "alexpota",
             "repo": "deploy-mcp",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "ai",
+              "ci-cd",
+              "claude",
+              "cloudflare-deployment",
+              "cloudflare-pages",
+              "deployment",
+              "deployment-monitor",
+              "deployment-status",
+              "deployment-tracking",
+              "mcp",
+              "netlify",
+              "netlify-deployment",
+              "real-time-monitoring",
+              "vercel",
+              "vercel-deployment",
+              "webhook-integration"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1280,12 +2084,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Beautiful status page & uptime monitor. Ready for production out of the box.",
+            "homepage": "https://status.oddinpay.com",
             "id": 1055036673,
             "language": "Svelte",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-29T00:30:09Z",
+            "open_issues": 0,
             "owner": "oddinpay",
             "repo": "ohstatus",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "alerts",
+              "incident-management",
+              "self-hosted",
+              "status-page",
+              "uptime-monitor"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1296,12 +2111,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time monitoring dashboard for 45 AI services — uptime, latency, incidents, AIWatch Score reliability ranking.",
+            "homepage": "https://ai-watch.dev/",
             "id": 1185924743,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T09:38:13Z",
+            "open_issues": 72,
             "owner": "bentleypark",
             "repo": "aiwatch",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "ai",
+              "ai-monitoring",
+              "cloudflare-workers",
+              "dashboard",
+              "devtools",
+              "monitoring",
+              "react",
+              "status-page"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         }
@@ -1318,12 +2147,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Capture, inspect, and replay webhooks with 90-day history + signature verification. Built on Cloudflare Workers + D1.",
+            "homepage": "https://webhook-debugger.autocompany.workers.dev",
             "id": 1159870805,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-02-17T19:35:37Z",
+            "open_issues": 1,
             "owner": "brancogao",
             "repo": "webhook-debugger",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "api-testing",
+              "cloudflare-workers",
+              "d1",
+              "debugger",
+              "developer-tools",
+              "github-webhook",
+              "privacy",
+              "security",
+              "self-hosted",
+              "serverless",
+              "shopify-webhook",
+              "slack-webhook",
+              "sqlite",
+              "stripe-webhook",
+              "twilio-webhook",
+              "typescript",
+              "webhook",
+              "webhook-debugger",
+              "webhook-inspector",
+              "webhook-testing"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1334,12 +2189,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 `Cloudflare Workers + Hono + D1 + Queues` 的 iLink / WeClawBot Webhook 服务。",
+            "homepage": null,
             "id": 1192333839,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-20T07:32:15Z",
+            "open_issues": 1,
             "owner": "krapnikkk",
             "repo": "Cloudflare-WeChat-Notifier",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1350,12 +2210,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "网页打包EXE工具，基于 Cloudflare Workers + GitHub Actions + Electron，无需本地环境，填写网址即可打包桌面应用。",
+            "homepage": "https://jishuguai.cc.cd/",
             "id": 1160869075,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-18T13:36:02Z",
+            "open_issues": 0,
             "owner": "ZhangShengFan",
             "repo": "GetWeb",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1366,12 +2231,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source AEO (Answer Engine Optimization) infrastructure — every page, dual-marked. Markdown twins for AI agents alongside HTML for humans, picked by HTTP content negotiation.",
+            "homepage": "https://dualmark.dev",
             "id": 1229555898,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T05:48:40Z",
+            "open_issues": 15,
             "owner": "dodopayments",
             "repo": "dualmark",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "aeo",
+              "ai-bots",
+              "ai-search",
+              "ai-seo",
+              "answer-engine-optimization",
+              "astro-integration",
+              "cloudflare-workers",
+              "content-negotiation",
+              "generative-engine-optimization",
+              "geo",
+              "llms-txt",
+              "markdown",
+              "nextjs",
+              "open-source",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1382,12 +2268,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1282499468,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-28T18:42:11Z",
+            "open_issues": 0,
             "owner": "lsb11",
             "repo": "shopify-attribution-gap-backend",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         }
@@ -1404,12 +2295,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.",
+            "homepage": null,
             "id": 682254415,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-09-04T00:11:27Z",
+            "open_issues": 20,
             "owner": "vvbbnn00",
             "repo": "WARP-Clash-API",
-            "stars": 8831
+            "stars": 8831,
+            "topics": [
+              "clash",
+              "cloudflare",
+              "docker",
+              "docker-compose",
+              "flask",
+              "shadowrocket",
+              "warp",
+              "warp-plus"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1420,12 +2325,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "利用 Cloudflare Workers / Vercel Edge / Netlify Edge 快速搭一个获取 IP 地址和地理位置信息的接口。",
+            "homepage": "https://ip.agi.li",
             "id": 732649680,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-12-07T07:50:43Z",
+            "open_issues": 0,
             "owner": "miantiao-me",
             "repo": "ip-api",
-            "stars": 370
+            "stars": 370,
+            "topics": [
+              "cloudflare",
+              "ip",
+              "ipgeo",
+              "ipgeolocation",
+              "myip",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1436,12 +2353,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).",
+            "homepage": "https://t.me/ChatGPT_Telegram_Workers",
             "id": 609002853,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-06T19:48:25Z",
+            "open_issues": 16,
             "owner": "tbxark",
             "repo": "ChatGPT-Telegram-Workers",
-            "stars": 3811
+            "stars": 3812,
+            "topics": [
+              "bot",
+              "chatgpt",
+              "cloudflare",
+              "cloudflare-workers",
+              "gpt",
+              "serverless",
+              "telegram",
+              "telegram-bot",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1452,12 +2384,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "运行在Cloudflare Worker上的RSS订阅生成器",
+            "homepage": null,
             "id": 702034002,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-18T07:29:14Z",
+            "open_issues": 0,
             "owner": "yllhwa",
             "repo": "RSSWorker",
-            "stars": 798
+            "stars": 799,
+            "topics": [
+              "bilibili",
+              "rss",
+              "rss-generator",
+              "telegram",
+              "weibo",
+              "xiaohongshu"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1468,12 +2412,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥 Deploy DeepLX on Cloudflare",
+            "homepage": "https://deeplx.mingming.dev/",
             "id": 718206820,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-03-14T15:01:52Z",
+            "open_issues": 5,
             "owner": "ifyour",
             "repo": "deeplx-for-cloudflare",
-            "stars": 597
+            "stars": 596,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1484,12 +2433,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "转换ssr/v2ray订阅链接转换的工具",
+            "homepage": null,
             "id": 292496269,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2020-09-03T08:07:27Z",
+            "open_issues": 0,
             "owner": "zzNeutrino",
             "repo": "sub_converter_convert",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1500,12 +2454,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 693883545,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-09-28T13:39:23Z",
+            "open_issues": 0,
             "owner": "iamshaynez",
             "repo": "telegram-counter",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1516,12 +2475,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "☁ Yet Another Cloud Notepad.",
+            "homepage": "https://note.src.moe",
             "id": 491929454,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-06-06T11:05:12Z",
+            "open_issues": 6,
             "owner": "s0urcelab",
             "repo": "serverless-cloud-notepad",
-            "stars": 492
+            "stars": 492,
+            "topics": [
+              "cloudflare",
+              "cloudflare-workers",
+              "javascript",
+              "workers"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1532,12 +2501,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This is a simple Cloudflare Worker that transform Cohere API to OpenAI API, easily deployable to Cloudflare Workers.",
+            "homepage": null,
             "id": 789639811,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-03-05T01:11:24Z",
+            "open_issues": 1,
             "owner": "ckt1031",
             "repo": "cohere-to-openai",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1548,12 +2522,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cloudflare worker to covert cohere api to openai API",
+            "homepage": null,
             "id": 788336511,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-05-07T00:52:28Z",
+            "open_issues": 0,
             "owner": "beanqi",
             "repo": "cohere2openai",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1564,12 +2543,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "discussstack/applet:极具碎片沉浸式的一键联合社区(im+rag+based forum)生态和自教育RAG游戏平台",
+            "homepage": null,
             "id": 772912205,
             "language": "CSS",
+            "license": null,
             "last_commit": "2026-06-28T08:25:40Z",
+            "open_issues": 0,
             "owner": "minlearn",
             "repo": "imdiscuss",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1580,12 +2564,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The most intelligent Siri powered by LLMs",
+            "homepage": null,
             "id": 797833458,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-05T11:58:16Z",
+            "open_issues": 0,
             "owner": "fatwang2",
             "repo": "siri-ultra",
-            "stars": 1205
+            "stars": 1205,
+            "topics": [
+              "apple",
+              "groq",
+              "llama3",
+              "llms",
+              "openai",
+              "shortcuts",
+              "siri"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1596,12 +2593,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an AI Github Rlease Tracker Powered by Cloudflare",
+            "homepage": "https://gitpush.email",
             "id": 940690317,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-03-07T13:47:13Z",
+            "open_issues": 0,
             "owner": "fatwang2",
             "repo": "gitpush",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "cloudflare",
+              "github",
+              "workers-ai",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1612,12 +2619,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some code snippets used in blogs",
+            "homepage": "https://liujiacai.net/",
             "id": 153269558,
             "language": "Emacs Lisp",
+            "license": null,
             "last_commit": "2026-08-02T14:05:35Z",
+            "open_issues": 2,
             "owner": "jiacai2050",
             "repo": "blog-snippets",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "benchmark-suite",
+              "benchmarks",
+              "cgo",
+              "jna",
+              "mongodb"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1628,12 +2646,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署",
+            "homepage": "https://like.do",
             "id": 834143002,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-04T05:10:53Z",
+            "open_issues": 7,
             "owner": "oiov",
             "repo": "wr.do",
-            "stars": 2281
+            "stars": 2281,
+            "topics": [
+              "all-in-one",
+              "allinone",
+              "docker",
+              "docker-compose",
+              "email-receiver",
+              "email-sender",
+              "nextjs",
+              "short-link",
+              "subdomain-managment"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1644,12 +2677,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 838036043,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-12T00:52:24Z",
+            "open_issues": 3,
             "owner": "seadfeng",
             "repo": "cloudflare-proxy-sites",
-            "stars": 410
+            "stars": 410,
+            "topics": [
+              "cdn",
+              "cloudflare",
+              "cloudflare-proxy",
+              "cloudflare-workers",
+              "github-proxy",
+              "proxy",
+              "proxysites",
+              "website-mirror"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1660,12 +2707,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One Worker, All Subscriptions",
+            "homepage": "https://sublink.works/",
             "id": 834421850,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-19T13:56:48Z",
+            "open_issues": 61,
             "owner": "7Sageer",
             "repo": "sublink-worker",
-            "stars": 5326
+            "stars": 5326,
+            "topics": [
+              "clash",
+              "clash-meta",
+              "cloudflare-workers",
+              "mihomo",
+              "singbox",
+              "v2rayn",
+              "v2rayng",
+              "xray-core"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1676,12 +2737,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A turnkey OAuth & authentication system, designed for both Cloudflare Workers and Node.js",
+            "homepage": "https://auth.valuemelody.com/",
             "id": 826480313,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-17T01:39:40Z",
+            "open_issues": 3,
             "owner": "ValueMelody",
             "repo": "melody-auth",
-            "stars": 636
+            "stars": 636,
+            "topics": [
+              "authentication-system",
+              "cloudflare",
+              "cloudflare-workers",
+              "honojs",
+              "identity-provider",
+              "mfa-authenticator",
+              "oauth2",
+              "oidc",
+              "passkey-authentication",
+              "self-hosting",
+              "social-login"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1692,12 +2770,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The missing tool for your Cloudflare KV. A more complete and simple solution for managing Cloudflare KV storage. Include a web interface and a small python lib.",
+            "homepage": "https://kv-demo.somecanadian.com",
             "id": 928072234,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2025-06-23T00:50:51Z",
+            "open_issues": 0,
             "owner": "som3canadian",
             "repo": "Cloudflare-KV-Manager",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "cloudflare",
+              "cloudflare-kv",
+              "cloudflare-pages",
+              "cloudflare-worker",
+              "kv"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1708,12 +2797,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bitwarden-compatible server running on Cloudflare Workers",
+            "homepage": "https://nodewarden.app",
             "id": 1147229870,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-10T12:05:37Z",
+            "open_issues": 34,
             "owner": "shuaiplus",
             "repo": "nodewarden",
-            "stars": 3453
+            "stars": 3453,
+            "topics": [
+              "bitwarden",
+              "cloudflare",
+              "cloudflare-d1",
+              "cloudflare-r2",
+              "cloudflare-workers",
+              "end-to-end-encryption",
+              "nodewarden",
+              "password",
+              "password-manager",
+              "preact",
+              "self-hosted",
+              "serverless",
+              "typescript",
+              "vaultwarden",
+              "web-vault",
+              "workers",
+              "zero-knowledge"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1724,12 +2836,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Bitwarden-compatible server for Cloudflare Workers",
+            "homepage": "http://warden.qqnt.de/",
             "id": 1105139124,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-09T12:41:44Z",
+            "open_issues": 7,
             "owner": "qaz741wsd856",
             "repo": "warden-worker",
-            "stars": 1261
+            "stars": 1261,
+            "topics": [
+              "bitwarden",
+              "cloudflare-workers",
+              "password",
+              "password-manager",
+              "self-hosted",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1740,12 +2864,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cloudflare Worker SSL Certificate Application Agent",
+            "homepage": null,
             "id": 949263242,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-27T11:49:26Z",
+            "open_issues": 1,
             "owner": "PIKACHUIM",
             "repo": "CFWorkerACME",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1756,12 +2885,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "不要fork此仓库，去fork上游：",
+            "homepage": "https://github.com/LibreSpark/LibreTV",
             "id": 966654708,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-13T04:30:05Z",
+            "open_issues": 1,
             "owner": "bestZwei",
             "repo": "LibreTV",
-            "stars": 375
+            "stars": 375,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1772,12 +2906,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨",
+            "homepage": "https://moepush.app",
             "id": 929311929,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-05-10T11:42:44Z",
+            "open_issues": 20,
             "owner": "beilunyang",
             "repo": "moepush",
-            "stars": 1363
+            "stars": 1363,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1788,12 +2927,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✨ 基于 CloudFlare AI & Workers 的免费在线文生图服务",
+            "homepage": "https://text2img.huarzone.com/",
             "id": 981253647,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-05-11T06:22:37Z",
+            "open_issues": 6,
             "owner": "huarzone",
             "repo": "Text2img-Cloudflare-Workers",
-            "stars": 293
+            "stars": 293,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1804,12 +2948,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Edgebin is a minimalist HTTP service designed to test your networking stack.",
+            "homepage": "https://edgebin.liujiacai.net/",
             "id": 1069553023,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-23T09:45:49Z",
+            "open_issues": 0,
             "owner": "jiacai2050",
             "repo": "edgebin",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "cloudflare",
+              "cloudflare-workers",
+              "httpbin",
+              "restapi",
+              "worker"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1820,12 +2975,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⛅️ 基于Cloudflare的 工具平台⛅️ A tool list base on CloudFlare⛅️",
+            "homepage": "https://cf-tools.tianyao.qzz.io/",
             "id": 1081118173,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-01-21T07:09:37Z",
+            "open_issues": 1,
             "owner": "MainPoser",
             "repo": "cf-tools",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1836,12 +2996,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 Cloudflare Worker 的订阅池服务",
+            "homepage": null,
             "id": 1088598073,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-18T14:23:38Z",
+            "open_issues": 0,
             "owner": "illusionlie",
             "repo": "subpool-worker",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "cloudflare",
+              "cloudflare-workers"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1852,12 +3020,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted AWS multi-account access portal on Cloudflare Workers with Zero Trust SSO, role assumption, cost insights, resource inventory, and audit logging. ",
+            "homepage": null,
             "id": 1012842632,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T03:56:51Z",
+            "open_issues": 0,
             "owner": "Rexezuge-CloudflareWorkers",
             "repo": "AWS-AccessBridge",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1868,12 +3041,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "☁A cloud storage aggregation service deployed on Cloudflare Workers with D1 database support.",
+            "homepage": "https://mirrors.ohyraw.dpdns.org",
             "id": 1122646918,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-16T09:04:49Z",
+            "open_issues": 3,
             "owner": "ooyyh",
             "repo": "Cloudflare-Clist",
-            "stars": 411
+            "stars": 411,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1884,12 +3062,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A browser extension for syncing cookies and localStorage to Cloudflare KV or GitHub Gist",
+            "homepage": "https://chromewebstore.google.com/detail/sync-your-cookie/bcegpckmgklcpcapnbigfdadedcneopf",
             "id": 840300213,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-10T04:13:12Z",
+            "open_issues": 18,
             "owner": "jackluson",
             "repo": "sync-your-cookie",
-            "stars": 697
+            "stars": 697,
+            "topics": [
+              "cookie-manager",
+              "master-cookie",
+              "sync-cookie",
+              "sync-localstorage"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1900,12 +3088,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hoa examples",
+            "homepage": null,
             "id": 1066824283,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-06-14T02:55:42Z",
+            "open_issues": 0,
             "owner": "hoa-js",
             "repo": "examples",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1916,12 +3109,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hoa examples",
+            "homepage": null,
             "id": 1066824283,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-06-14T02:55:42Z",
+            "open_issues": 0,
             "owner": "hoa-js",
             "repo": "examples",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1932,12 +3130,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hoa examples",
+            "homepage": null,
             "id": 1066824283,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-06-14T02:55:42Z",
+            "open_issues": 0,
             "owner": "hoa-js",
             "repo": "examples",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1948,12 +3151,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "托管在cloudflare上的轻量化导航，可以同步谷歌书签",
+            "homepage": null,
             "id": 1104414828,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-12-17T05:20:03Z",
+            "open_issues": 8,
             "owner": "sese972010",
             "repo": "CloudNav-",
-            "stars": 249
+            "stars": 249,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1964,12 +3172,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⛅️ 基于Cloudflare的 工具平台⛅️ A tool list base on CloudFlare⛅️",
+            "homepage": "https://cf-tools.tianyao.qzz.io/",
             "id": 1081118173,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-01-21T07:09:37Z",
+            "open_issues": 1,
             "owner": "MainPoser",
             "repo": "cf-tools",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1980,12 +3193,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Memos Worker: A Cloudflare-Powered Notes and Knowledge Base. 由 Cloudflare 驱动的笔记与知识库。Site: https://demo.memos-demo.workers.dev/ username: memos password: memos",
+            "homepage": "https://demo.memos-demo.workers.dev/",
             "id": 1064139170,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-03-08T06:48:39Z",
+            "open_issues": 16,
             "owner": "souvenp",
             "repo": "memos-worker",
-            "stars": 205
+            "stars": 205,
+            "topics": [
+              "cloudflare",
+              "cloudflare-worker",
+              "cloudflare-workers",
+              "markdown",
+              "memos",
+              "notes",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -1996,12 +3222,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个基于 Whisper 模型的在线音频转写工具，部署在 Cloudflare 上。该工具可以将音频文件转换为文字，并支持生成 SRT 格式的字幕文件。",
+            "homepage": "https://whisper.ohen5pbf93.workers.dev/",
             "id": 1006351721,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-06-22T04:49:48Z",
+            "open_issues": 0,
             "owner": "thun888",
             "repo": "whisper_cloudflare",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -2012,12 +3243,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "迷你笔记本 对pereorga/minimalist-web-notepad 的cloudflare worker实现",
+            "homepage": "https://micro-notepad.x112.workers.dev/",
             "id": 1026715110,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2025-11-21T05:03:21Z",
+            "open_issues": 1,
             "owner": "thun888",
             "repo": "micro-notepad",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "cloudflare",
+              "notepad",
+              "worker"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -2028,12 +3268,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimalist Web Notepad",
+            "homepage": "https://notes.orga.cat",
             "id": 5299409,
             "language": "PHP",
+            "license": null,
             "last_commit": "2024-08-31T18:59:20Z",
+            "open_issues": 0,
             "owner": "pereorga",
             "repo": "minimalist-web-notepad",
-            "stars": 1336
+            "stars": 1336,
+            "topics": [
+              "editor",
+              "javascript",
+              "notepad",
+              "php",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -2044,12 +3295,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "页面发布mcp工具，可以将html页面直接发布到cloudflare的worker中，并获得预览链接。",
+            "homepage": null,
             "id": 999266566,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-07-26T09:48:47Z",
+            "open_issues": 0,
             "owner": "FactrueSolin",
             "repo": "cf-page-publish-mcp",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -2060,12 +3316,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Screenshot & OG Images. One API Call. — Edge-native OG image generation API powered by Cloudflare Workers.",
+            "homepage": "https://shotog.2214962083.workers.dev",
             "id": 1155843689,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-12T02:45:02Z",
+            "open_issues": 0,
             "owner": "nicepkg",
             "repo": "shotog",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "api",
+              "cloudflare",
+              "cloudflare-workers",
+              "hono",
+              "image-generation",
+              "meta-tags",
+              "og-image",
+              "open-graph",
+              "opengraph",
+              "satori",
+              "seo",
+              "serverless",
+              "social-media",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         },
@@ -2076,12 +3352,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP Redirect Chain Analyzer - API-first tool for developers to check where URLs really go",
+            "homepage": "https://redirect-checker.autocompany.workers.dev",
             "id": 1160423566,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-02-17T23:58:00Z",
+            "open_issues": 0,
             "owner": "brancogao",
             "repo": "redirect-checker",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
         }
@@ -2090,15 +3371,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:05:00.649Z",
+    "last_updated": "2026-08-29T04:12:17.584Z",
     "original_repository_info": {
       "archived": false,
+      "description": "⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.",
+      "homepage": "https://cloudflare.chuhai.tools/",
       "id": 783124783,
       "language": null,
+      "license": null,
       "last_commit": "2026-06-30T01:51:01Z",
+      "open_issues": 38,
       "owner": "zhuima",
       "repo": "awesome-cloudflare",
-      "stars": 15143
+      "stars": 15143,
+      "topics": []
     },
     "original_repository_sha": "4dfad4f51ff327076813c047c2b3d997a6853e1d",
     "enhanced_repository": "enhansome/enhansome-cloudflare",
