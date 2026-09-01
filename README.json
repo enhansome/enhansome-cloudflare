@@ -271,7 +271,7 @@
             "open_issues": 40,
             "owner": "MarSeventh",
             "repo": "CloudFlare-ImgBed",
-            "stars": 6331,
+            "stars": 6345,
             "topics": [
               "asset-management",
               "cloud-native",
@@ -380,7 +380,7 @@
             "open_issues": 2,
             "owner": "oiov",
             "repo": "vmail",
-            "stars": 1466,
+            "stars": 1469,
             "topics": [
               "cloudflare-workers",
               "d1-database",
@@ -429,11 +429,11 @@
             "id": 678900558,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T14:36:11Z",
+            "last_commit": "2026-09-01T17:21:27Z",
             "open_issues": 23,
             "owner": "dreamhunter2333",
             "repo": "cloudflare_temp_email",
-            "stars": 11606,
+            "stars": 11611,
             "topics": [
               "cloudflare-email",
               "cloudflare-pages",
@@ -460,7 +460,7 @@
             "open_issues": 1,
             "owner": "tbxark",
             "repo": "mail2telegram",
-            "stars": 883,
+            "stars": 884,
             "topics": [
               "cloudflare",
               "cloudflare-email-routing",
@@ -492,7 +492,7 @@
             "open_issues": 1,
             "owner": "TooonyChen",
             "repo": "AuthInbox",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "2fa",
               "cloudflare",
@@ -537,27 +537,6 @@
         },
         {
           "node_type": "item",
-          "title": "zmail",
-          "description": "Z-Mail - 基于 CloudFlare 的 pages、worker 以及 D1 SQL 搭建的极简临时邮箱服务，支持接收附件。 https://mail.mdzz.uk/ 维护中",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "ZMAIL-24小时临时邮箱",
-            "homepage": "https://mail.mdzz.uk",
-            "id": 945648745,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-08-01T16:09:52Z",
-            "open_issues": 1,
-            "owner": "takumi913",
-            "repo": "zmail",
-            "stars": 10,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:05:00.649Z"
-        },
-        {
-          "node_type": "item",
           "title": "cloud-mail",
           "description": "用Vue3开发的响应式简约邮箱服务，支持邮件发送附件收发，可以部署到Cloudflare云平台。 https://skymail.ink 维护中",
           "children": [],
@@ -569,10 +548,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-29T10:35:57Z",
-            "open_issues": 72,
+            "open_issues": 51,
             "owner": "maillab",
             "repo": "cloud-mail",
-            "stars": 13829,
+            "stars": 13861,
             "topics": [
               "cloudflare",
               "cloudflare-email",
@@ -599,7 +578,7 @@
             "open_issues": 2,
             "owner": "bestruirui",
             "repo": "Alle",
-            "stars": 452,
+            "stars": 453,
             "topics": [
               "ai",
               "cloudflare",
@@ -631,7 +610,7 @@
             "open_issues": 17,
             "owner": "gdtool",
             "repo": "cloudflare-workers-blog",
-            "stars": 1187,
+            "stars": 1188,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
@@ -669,11 +648,11 @@
             "id": 266677657,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-28T18:51:52Z",
-            "open_issues": 43,
+            "last_commit": "2026-09-01T15:31:43Z",
+            "open_issues": 45,
             "owner": "microfeed",
             "repo": "microfeed",
-            "stars": 4055,
+            "stars": 4054,
             "topics": [
               "agentic-cms",
               "agentic-workflow",
@@ -778,7 +757,7 @@
             "open_issues": 71,
             "owner": "openRin",
             "repo": "Rin",
-            "stars": 3031,
+            "stars": 3030,
             "topics": [
               "blog",
               "bun",
@@ -1160,7 +1139,7 @@
             "open_issues": 16,
             "owner": "miantiao-me",
             "repo": "Sink",
-            "stars": 7070,
+            "stars": 7072,
             "topics": [
               "analytics",
               "bitly-alternative",
@@ -1256,7 +1235,7 @@
             "open_issues": 19,
             "owner": "benvinegar",
             "repo": "counterscale",
-            "stars": 2123,
+            "stars": 2125,
             "topics": [
               "analytics",
               "cloudflare-analytics",
@@ -1342,7 +1321,7 @@
             "open_issues": 37,
             "owner": "hunshcn",
             "repo": "gh-proxy",
-            "stars": 8989,
+            "stars": 8991,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
@@ -1409,7 +1388,7 @@
             "open_issues": 21,
             "owner": "1234567Yang",
             "repo": "cf-proxy-ex",
-            "stars": 1847,
+            "stars": 1846,
             "topics": [
               "bypass",
               "cloudflare-proxy",
@@ -1551,8 +1530,8 @@
             "id": 1161145093,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T18:21:23Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-01T16:04:27Z",
+            "open_issues": 10,
             "owner": "smigolsmigol",
             "repo": "llmkit",
             "stars": 16,
@@ -1703,7 +1682,7 @@
             "open_issues": 40,
             "owner": "ling-drag0n",
             "repo": "CloudPaste",
-            "stars": 2630,
+            "stars": 2633,
             "topics": [
               "cloudflare",
               "cloudflare-workers",
@@ -1838,7 +1817,7 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-09T07:34:43Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "yclgkd",
             "repo": "zerolink",
             "stars": 12,
@@ -1878,7 +1857,7 @@
             "open_issues": 30,
             "owner": "XIU2",
             "repo": "CloudflareSpeedTest",
-            "stars": 28822,
+            "stars": 28840,
             "topics": [
               "cdn",
               "cloudflare",
@@ -1939,7 +1918,7 @@
             "open_issues": 21,
             "owner": "lyc8503",
             "repo": "UptimeFlare",
-            "stars": 3754,
+            "stars": 3755,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
@@ -2052,7 +2031,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-05-09T03:41:02Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "alexpota",
             "repo": "deploy-mcp",
             "stars": 9,
@@ -2089,7 +2068,7 @@
             "id": 1055036673,
             "language": "Svelte",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-31T19:15:13Z",
+            "last_commit": "2026-09-01T18:30:06Z",
             "open_issues": 0,
             "owner": "oddinpay",
             "repo": "ohstatus",
@@ -2116,8 +2095,8 @@
             "id": 1185924743,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-31T13:03:41Z",
-            "open_issues": 77,
+            "last_commit": "2026-09-01T14:33:53Z",
+            "open_issues": 73,
             "owner": "bentleypark",
             "repo": "aiwatch",
             "stars": 27,
@@ -2362,7 +2341,7 @@
             "open_issues": 16,
             "owner": "tbxark",
             "repo": "ChatGPT-Telegram-Workers",
-            "stars": 3812,
+            "stars": 3810,
             "topics": [
               "bot",
               "chatgpt",
@@ -2544,11 +2523,11 @@
           "repo_info": {
             "archived": false,
             "description": "discussstack/applet:极具碎片沉浸式的一键联合社区(im+rag+based forum)生态和自教育RAG游戏平台",
-            "homepage": null,
+            "homepage": "www.minlearn.org",
             "id": 772912205,
-            "language": "CSS",
+            "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-06-28T08:25:40Z",
+            "last_commit": "2026-09-01T13:22:37Z",
             "open_issues": 0,
             "owner": "minlearn",
             "repo": "imdiscuss",
@@ -2686,7 +2665,7 @@
             "open_issues": 3,
             "owner": "seadfeng",
             "repo": "cloudflare-proxy-sites",
-            "stars": 410,
+            "stars": 409,
             "topics": [
               "cdn",
               "cloudflare",
@@ -2716,7 +2695,7 @@
             "open_issues": 62,
             "owner": "7Sageer",
             "repo": "sublink-worker",
-            "stars": 5333,
+            "stars": 5336,
             "topics": [
               "clash",
               "clash-meta",
@@ -2806,7 +2785,7 @@
             "open_issues": 29,
             "owner": "shuaiplus",
             "repo": "nodewarden",
-            "stars": 3471,
+            "stars": 3484,
             "topics": [
               "bitwarden",
               "cloudflare",
@@ -2894,7 +2873,7 @@
             "open_issues": 1,
             "owner": "bestZwei",
             "repo": "LibreTV",
-            "stars": 375,
+            "stars": 376,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
@@ -2915,7 +2894,7 @@
             "open_issues": 20,
             "owner": "beilunyang",
             "repo": "moepush",
-            "stars": 1364,
+            "stars": 1365,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
@@ -2936,7 +2915,7 @@
             "open_issues": 6,
             "owner": "huarzone",
             "repo": "Text2img-Cloudflare-Workers",
-            "stars": 294,
+            "stars": 296,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
@@ -3025,8 +3004,8 @@
             "id": 1012842632,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T12:52:59Z",
-            "open_issues": 5,
+            "last_commit": "2026-08-31T23:21:06Z",
+            "open_issues": 0,
             "owner": "Rexezuge-CloudflareWorkers",
             "repo": "AWS-AccessBridge",
             "stars": 26,
@@ -3202,7 +3181,7 @@
             "open_issues": 16,
             "owner": "souvenp",
             "repo": "memos-worker",
-            "stars": 208,
+            "stars": 209,
             "topics": [
               "cloudflare",
               "cloudflare-worker",
@@ -3277,7 +3256,7 @@
             "open_issues": 0,
             "owner": "pereorga",
             "repo": "minimalist-web-notepad",
-            "stars": 1336,
+            "stars": 1337,
             "topics": [
               "editor",
               "javascript",
@@ -3371,7 +3350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:59:03.072Z",
+    "last_updated": "2026-09-01T20:01:16.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.",
@@ -3380,10 +3359,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-06-30T01:51:01Z",
-      "open_issues": 42,
+      "open_issues": 43,
       "owner": "zhuima",
       "repo": "awesome-cloudflare",
-      "stars": 15151,
+      "stars": 15155,
       "topics": []
     },
     "original_repository_sha": "4dfad4f51ff327076813c047c2b3d997a6853e1d",
