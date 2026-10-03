@@ -271,7 +271,7 @@
             "open_issues": 47,
             "owner": "MarSeventh",
             "repo": "CloudFlare-ImgBed",
-            "stars": 6607,
+            "stars": 6615,
             "topics": [
               "asset-management",
               "cloud-native",
@@ -433,7 +433,7 @@
             "open_issues": 25,
             "owner": "dreamhunter2333",
             "repo": "cloudflare_temp_email",
-            "stars": 11900,
+            "stars": 11901,
             "topics": [
               "cloudflare-email",
               "cloudflare-pages",
@@ -460,7 +460,7 @@
             "open_issues": 0,
             "owner": "tbxark",
             "repo": "mail2telegram",
-            "stars": 901,
+            "stars": 902,
             "topics": [
               "cloudflare",
               "cloudflare-email-routing",
@@ -551,7 +551,7 @@
             "open_issues": 72,
             "owner": "maillab",
             "repo": "cloud-mail",
-            "stars": 14510,
+            "stars": 14515,
             "topics": [
               "cloudflare",
               "cloudflare-email",
@@ -652,7 +652,7 @@
             "open_issues": 44,
             "owner": "microfeed",
             "repo": "microfeed",
-            "stars": 4101,
+            "stars": 4103,
             "topics": [
               "agentic-cms",
               "agentic-workflow",
@@ -731,7 +731,7 @@
             "open_issues": 6,
             "owner": "s0urcelab",
             "repo": "serverless-cloud-notepad",
-            "stars": 500,
+            "stars": 501,
             "topics": [
               "cloudflare",
               "cloudflare-workers",
@@ -757,7 +757,7 @@
             "open_issues": 75,
             "owner": "openRin",
             "repo": "Rin",
-            "stars": 3086,
+            "stars": 3089,
             "topics": [
               "blog",
               "bun",
@@ -1685,7 +1685,7 @@
             "open_issues": 44,
             "owner": "ling-drag0n",
             "repo": "CloudPaste",
-            "stars": 2688,
+            "stars": 2691,
             "topics": [
               "cloudflare",
               "cloudflare-workers",
@@ -1735,7 +1735,7 @@
             "id": 967146837,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-03T03:10:24Z",
+            "last_commit": "2026-10-03T15:52:19Z",
             "open_issues": 3,
             "owner": "jiacai2050",
             "repo": "x",
@@ -1819,7 +1819,7 @@
             "id": 1164726609,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-29T09:13:46Z",
+            "last_commit": "2026-10-03T10:26:01Z",
             "open_issues": 1,
             "owner": "yclgkd",
             "repo": "zerolink",
@@ -1857,10 +1857,10 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-09-15T05:40:30Z",
-            "open_issues": 32,
+            "open_issues": 31,
             "owner": "XIU2",
             "repo": "CloudflareSpeedTest",
-            "stars": 29259,
+            "stars": 29266,
             "topics": [
               "cdn",
               "cloudflare",
@@ -2444,7 +2444,7 @@
             "open_issues": 6,
             "owner": "s0urcelab",
             "repo": "serverless-cloud-notepad",
-            "stars": 500,
+            "stars": 501,
             "topics": [
               "cloudflare",
               "cloudflare-workers",
@@ -2766,7 +2766,7 @@
             "open_issues": 36,
             "owner": "shuaiplus",
             "repo": "nodewarden",
-            "stars": 3822,
+            "stars": 3830,
             "topics": [
               "bitwarden",
               "cloudflare",
@@ -2845,16 +2845,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "nextjs 重构 LibreTV",
+            "description": "请使用上游版本，这是开发仓库",
             "homepage": "https://libretv.is-an.org",
             "id": 966654708,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T14:45:58Z",
+            "last_commit": "2026-10-03T12:00:30Z",
             "open_issues": 0,
             "owner": "bestZwei",
             "repo": "LibreTV-Next",
-            "stars": 391,
+            "stars": 392,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
@@ -2875,7 +2875,7 @@
             "open_issues": 21,
             "owner": "beilunyang",
             "repo": "moepush",
-            "stars": 1369,
+            "stars": 1370,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
@@ -3162,7 +3162,7 @@
             "open_issues": 18,
             "owner": "souvenp",
             "repo": "memos-worker",
-            "stars": 241,
+            "stars": 240,
             "topics": [
               "cloudflare",
               "cloudflare-worker",
@@ -3331,7 +3331,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:42:41.473Z",
+    "last_updated": "2026-10-03T20:03:28.694Z",
     "original_repository_info": {
       "archived": false,
       "description": "⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.",
@@ -3343,7 +3343,7 @@
       "open_issues": 56,
       "owner": "zhuima",
       "repo": "awesome-cloudflare",
-      "stars": 15479,
+      "stars": 15495,
       "topics": []
     },
     "original_repository_sha": "4dfad4f51ff327076813c047c2b3d997a6853e1d",
