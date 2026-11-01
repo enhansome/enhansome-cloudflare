@@ -121,7 +121,7 @@
             "open_issues": 25,
             "owner": "cf-pages",
             "repo": "Telegraph-Image",
-            "stars": 4704,
+            "stars": 4705,
             "topics": [
               "cloudflare",
               "cloudflare-pages",
@@ -244,7 +244,7 @@
             "open_issues": 6,
             "owner": "roimdev",
             "repo": "roim-picx",
-            "stars": 300,
+            "stars": 301,
             "topics": [
               "cloudflare",
               "d1",
@@ -271,7 +271,7 @@
             "open_issues": 41,
             "owner": "MarSeventh",
             "repo": "CloudFlare-ImgBed",
-            "stars": 6841,
+            "stars": 6844,
             "topics": [
               "asset-management",
               "cloud-native",
@@ -407,7 +407,7 @@
             "open_issues": 2,
             "owner": "akazwz",
             "repo": "smail",
-            "stars": 933,
+            "stars": 934,
             "topics": [
               "cloudflare",
               "cloudflare-d1",
@@ -440,11 +440,11 @@
             "id": 678900558,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T08:38:12Z",
+            "last_commit": "2026-11-01T15:48:14Z",
             "open_issues": 27,
             "owner": "dreamhunter2333",
             "repo": "cloudflare_temp_email",
-            "stars": 12044,
+            "stars": 12046,
             "topics": [
               "cloudflare-email",
               "cloudflare-pages",
@@ -471,7 +471,7 @@
             "open_issues": 2,
             "owner": "tbxark",
             "repo": "mail2telegram",
-            "stars": 908,
+            "stars": 909,
             "topics": [
               "cloudflare",
               "cloudflare-email-routing",
@@ -533,10 +533,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-29T10:20:42Z",
-            "open_issues": 61,
+            "open_issues": 62,
             "owner": "beilunyang",
             "repo": "moemail",
-            "stars": 2831,
+            "stars": 2833,
             "topics": [
               "cloudflare",
               "cloudflare-workers",
@@ -559,10 +559,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-25T18:37:03Z",
-            "open_issues": 94,
+            "open_issues": 95,
             "owner": "maillab",
             "repo": "cloud-mail",
-            "stars": 15194,
+            "stars": 15233,
             "topics": [
               "cloudflare",
               "cloudflare-email",
@@ -642,7 +642,7 @@
             "open_issues": 17,
             "owner": "gdtool",
             "repo": "cloudflare-workers-blog",
-            "stars": 1208,
+            "stars": 1207,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
@@ -684,7 +684,7 @@
             "open_issues": 46,
             "owner": "microfeed",
             "repo": "microfeed",
-            "stars": 4126,
+            "stars": 4127,
             "topics": [
               "agentic-cms",
               "agentic-workflow",
@@ -789,7 +789,7 @@
             "open_issues": 79,
             "owner": "openRin",
             "repo": "Rin",
-            "stars": 3127,
+            "stars": 3128,
             "topics": [
               "blog",
               "bun",
@@ -1176,7 +1176,7 @@
             "open_issues": 25,
             "owner": "miantiao-me",
             "repo": "Sink",
-            "stars": 7247,
+            "stars": 7246,
             "topics": [
               "analytics",
               "bitly-alternative",
@@ -1270,7 +1270,7 @@
             "open_issues": 18,
             "owner": "benvinegar",
             "repo": "counterscale",
-            "stars": 2173,
+            "stars": 2174,
             "topics": [
               "analytics",
               "cloudflare-analytics",
@@ -1377,7 +1377,7 @@
             "open_issues": 2,
             "owner": "dferber90",
             "repo": "githubbox",
-            "stars": 621,
+            "stars": 622,
             "topics": [
               "cloudflare-workers",
               "codesandbox",
@@ -1480,7 +1480,7 @@
             "open_issues": 54,
             "owner": "cmliu",
             "repo": "CF-Workers-docker.io",
-            "stars": 9188,
+            "stars": 9186,
             "topics": [
               "cloudflare-pages",
               "cloudflare-workers",
@@ -1565,7 +1565,7 @@
             "id": 1161145093,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T11:10:18Z",
+            "last_commit": "2026-11-01T16:02:05Z",
             "open_issues": 19,
             "owner": "smigolsmigol",
             "repo": "llmkit",
@@ -1717,7 +1717,7 @@
             "open_issues": 47,
             "owner": "ling-drag0n",
             "repo": "CloudPaste",
-            "stars": 2718,
+            "stars": 2719,
             "topics": [
               "cloudflare",
               "cloudflare-workers",
@@ -1834,7 +1834,7 @@
             "open_issues": 7,
             "owner": "katelya77",
             "repo": "K-Vault",
-            "stars": 802,
+            "stars": 803,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
@@ -1855,7 +1855,7 @@
             "open_issues": 1,
             "owner": "yclgkd",
             "repo": "zerolink",
-            "stars": 32,
+            "stars": 33,
             "topics": [
               "cloudflare-workers",
               "cryptography",
@@ -1892,7 +1892,7 @@
             "open_issues": 38,
             "owner": "XIU2",
             "repo": "CloudflareSpeedTest",
-            "stars": 29741,
+            "stars": 29765,
             "topics": [
               "cdn",
               "cloudflare",
@@ -1953,7 +1953,7 @@
             "open_issues": 26,
             "owner": "lyc8503",
             "repo": "UptimeFlare",
-            "stars": 3916,
+            "stars": 3920,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
@@ -1974,7 +1974,7 @@
             "open_issues": 46,
             "owner": "eidam",
             "repo": "cf-workers-status-page",
-            "stars": 2812,
+            "stars": 2813,
             "topics": [
               "cloudflare-workers",
               "cloudflare-workers-cron",
@@ -2129,8 +2129,8 @@
             "id": 1185924743,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-31T02:03:14Z",
-            "open_issues": 80,
+            "last_commit": "2026-11-01T15:46:16Z",
+            "open_issues": 78,
             "owner": "bentleypark",
             "repo": "aiwatch",
             "stars": 32,
@@ -2253,7 +2253,7 @@
             "open_issues": 17,
             "owner": "dodopayments",
             "repo": "dualmark",
-            "stars": 122,
+            "stars": 123,
             "topics": [
               "aeo",
               "ai-bots",
@@ -2307,11 +2307,11 @@
             "id": 1283907968,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T03:13:30Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-01T03:16:19Z",
+            "open_issues": 13,
             "owner": "oomol-lab",
             "repo": "open-connector",
-            "stars": 6152,
+            "stars": 6157,
             "topics": [
               "agent-tools",
               "ai-agents",
@@ -2739,7 +2739,7 @@
             "open_issues": 3,
             "owner": "seadfeng",
             "repo": "cloudflare-proxy-sites",
-            "stars": 407,
+            "stars": 408,
             "topics": [
               "cdn",
               "cloudflare",
@@ -2766,7 +2766,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-16T04:04:05Z",
-            "open_issues": 54,
+            "open_issues": 55,
             "owner": "7Sageer",
             "repo": "sublink-worker",
             "stars": 5558,
@@ -2799,7 +2799,7 @@
             "open_issues": 3,
             "owner": "ValueMelody",
             "repo": "melody-auth",
-            "stars": 648,
+            "stars": 649,
             "topics": [
               "authentication-system",
               "cloudflare",
@@ -2859,7 +2859,7 @@
             "open_issues": 50,
             "owner": "shuaiplus",
             "repo": "nodewarden",
-            "stars": 4072,
+            "stars": 4082,
             "topics": [
               "bitwarden",
               "cloudflare",
@@ -2947,7 +2947,7 @@
             "open_issues": 0,
             "owner": "bestZwei",
             "repo": "LibreTV-Next",
-            "stars": 489,
+            "stars": 491,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
@@ -3105,7 +3105,7 @@
             "open_issues": 2,
             "owner": "ooyyh",
             "repo": "Cloudflare-Clist",
-            "stars": 431,
+            "stars": 432,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:00.649Z"
@@ -3257,7 +3257,7 @@
             "open_issues": 17,
             "owner": "souvenp",
             "repo": "memos-worker",
-            "stars": 251,
+            "stars": 252,
             "topics": [
               "cloudflare",
               "cloudflare-worker",
@@ -3332,7 +3332,7 @@
             "open_issues": 0,
             "owner": "pereorga",
             "repo": "minimalist-web-notepad",
-            "stars": 1338,
+            "stars": 1337,
             "topics": [
               "editor",
               "javascript",
@@ -3426,7 +3426,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T20:33:30.429Z",
+    "last_updated": "2026-11-01T21:18:48.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.",
@@ -3438,7 +3438,7 @@
       "open_issues": 91,
       "owner": "zhuima",
       "repo": "awesome-cloudflare",
-      "stars": 15582,
+      "stars": 15590,
       "topics": []
     },
     "original_repository_sha": "4d90410f80178f4c41655c1252a7d5b653e8e8bd",
